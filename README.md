@@ -204,3 +204,15 @@ df_procesado = procesar_datos(productos)
 # 3. Crear índice y consultar
 index = consultar(df_procesado)
 ```
+
+## EXTRA: Interfaz Gráfica Web (Streamlit)
+
+Como valor añadido al proyecto base, se ha desarrollado una interfaz web interactiva que saca el sistema RAG de la terminal. 
+
+Esta aplicación web permite utilizar el motor de recomendación (FAISS + SentenceTransformers) y el algoritmo de re-ranking (semántica, salud y precio) a través de un entorno visual amigable, mostrando cómo se desplegaría el buscador en un entorno real.
+
+**Para lanzar la aplicación web:**
+1. Asegúrate de haber instalado las dependencias (`pip install -r requirements.txt`).
+2. Ejecuta el siguiente comando en la terminal desde la raíz del proyecto:
+   `streamlit run app.py`
+3. La aplicación se abrirá automáticamente en tu navegador web.

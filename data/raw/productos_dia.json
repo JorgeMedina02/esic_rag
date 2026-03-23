@@ -7,8 +7,8 @@
     "categorias": [
       "frescos"
     ],
-    "precio_total": 1.0,
-    "precio_por_cantidad": 1.11,
+    "precio_total": 1.43,
+    "precio_por_cantidad": 1.59,
     "peso_volumen": "900 g",
     "alergenos": [],
     "origen": "dia",
@@ -97,8 +97,8 @@
     "categorias": [
       "frescos"
     ],
-    "precio_total": 1.79,
-    "precio_por_cantidad": 2.56,
+    "precio_total": 1.29,
+    "precio_por_cantidad": 1.84,
     "peso_volumen": "700 g",
     "alergenos": [],
     "origen": "dia",
@@ -120,6 +120,21 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/frutas/manzanas-y-peras/p/97",
+    "titulo": "Manzana Golden granel 500 g aprox.",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "frescos"
+    ],
+    "precio_total": 1.13,
+    "precio_por_cantidad": 2.25,
+    "peso_volumen": "500 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/frutas/manzanas-y-peras/p/32063",
     "titulo": "Pera D.O.P. Rincon de soto granel 800 g aprox.",
     "valores_nutricionales_100_g": {},
@@ -127,24 +142,9 @@
     "categorias": [
       "frescos"
     ],
-    "precio_total": 1.83,
-    "precio_por_cantidad": 2.29,
+    "precio_total": 2.39,
+    "precio_por_cantidad": 2.99,
     "peso_volumen": "800 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/frutas/manzanas-y-peras/p/54268",
-    "titulo": "Manzana roja acidulce Fuji bolsa 1 Kg",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
-    "categorias": [
-      "frescos"
-    ],
-    "precio_total": 2.29,
-    "precio_por_cantidad": 2.29,
-    "peso_volumen": "1 kg",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -157,8 +157,8 @@
     "categorias": [
       "frescos"
     ],
-    "precio_total": 1.79,
-    "precio_por_cantidad": 1.79,
+    "precio_total": 2.39,
+    "precio_por_cantidad": 2.39,
     "peso_volumen": "1 kg",
     "alergenos": [],
     "origen": "dia",
@@ -187,8 +187,8 @@
     "categorias": [
       "frescos"
     ],
-    "precio_total": 4.79,
-    "precio_por_cantidad": 1.2,
+    "precio_total": 3.79,
+    "precio_por_cantidad": 0.95,
     "peso_volumen": "4 kg",
     "alergenos": [],
     "origen": "dia",
@@ -210,16 +210,31 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/frutas/naranjas-mandarinas-y-limones/p/84",
-    "titulo": "Mandarina granel 500 g aprox.",
+    "url": "https://www.dia.es/frutas/naranjas-mandarinas-y-limones/p/206952",
+    "titulo": "Mandarina selección malla 750 g",
     "valores_nutricionales_100_g": {},
     "descripcion": "",
     "categorias": [
       "frescos"
     ],
-    "precio_total": 1.25,
-    "precio_por_cantidad": 2.49,
-    "peso_volumen": "500 g",
+    "precio_total": 1.99,
+    "precio_por_cantidad": 2.65,
+    "peso_volumen": "750 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/frutas/melon-y-sandia/p/28887",
+    "titulo": "Melón piel de sapo unidad 2.8 Kg aprox.",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "frescos"
+    ],
+    "precio_total": 5.85,
+    "precio_por_cantidad": 2.09,
+    "peso_volumen": "2.8 kg",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -240,16 +255,31 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/frutas/melon-y-sandia/p/28887",
-    "titulo": "Melón piel de sapo unidad 2.5 Kg aprox.",
+    "url": "https://www.dia.es/frutas/melon-y-sandia/p/302095",
+    "titulo": "Sandía selección unidad 3.5 Kg aprox.",
     "valores_nutricionales_100_g": {},
     "descripcion": "",
     "categorias": [
       "frescos"
     ],
-    "precio_total": 5.23,
-    "precio_por_cantidad": 2.09,
-    "peso_volumen": "2.5 kg",
+    "precio_total": 8.72,
+    "precio_por_cantidad": 2.49,
+    "peso_volumen": "3.5 kg",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/frutas/melon-y-sandia/p/283367",
+    "titulo": "Medio melón premium Bollo unidad 1.25 Kg aprox.",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "frescos"
+    ],
+    "precio_total": 3.99,
+    "precio_por_cantidad": 3.19,
+    "peso_volumen": "1.25 kg",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -265,36 +295,6 @@
     "precio_total": 7.48,
     "precio_por_cantidad": 2.99,
     "peso_volumen": "2.5 kg",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/frutas/melon-y-sandia/p/302095",
-    "titulo": "Sandía selección unidad 3.5 Kg aprox.",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
-    "categorias": [
-      "frescos"
-    ],
-    "precio_total": 9.07,
-    "precio_por_cantidad": 2.59,
-    "peso_volumen": "3.5 kg",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/frutas/melon-y-sandia/p/283367",
-    "titulo": "Medio melón bollo unidad 1.25 Kg aprox.",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
-    "categorias": [
-      "frescos"
-    ],
-    "precio_total": 3.99,
-    "precio_por_cantidad": 3.19,
-    "peso_volumen": "1.25 kg",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -352,8 +352,8 @@
     "categorias": [
       "frescos"
     ],
-    "precio_total": 1.99,
-    "precio_por_cantidad": 3.32,
+    "precio_total": 1.49,
+    "precio_por_cantidad": 2.48,
     "peso_volumen": "",
     "alergenos": [],
     "origen": "dia",
@@ -375,21 +375,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/frutas/frutas-tropicales/p/237458",
-    "titulo": "Kiwi amarillo Zespri bandeja 500 g",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "KIWI AMARILLO BANDEJA",
-    "categorias": [
-      "frescos"
-    ],
-    "precio_total": 3.99,
-    "precio_por_cantidad": 7.98,
-    "peso_volumen": "500 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/frutas/frutas-tropicales/p/78",
     "titulo": "Kiwi granel 500 g aprox.",
     "valores_nutricionales_100_g": {},
@@ -405,6 +390,21 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/frutas/frutas-tropicales/p/237458",
+    "titulo": "Kiwi amarillo Zespri bandeja 500 g",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "KIWI AMARILLO BANDEJA",
+    "categorias": [
+      "frescos"
+    ],
+    "precio_total": 3.99,
+    "precio_por_cantidad": 7.98,
+    "peso_volumen": "500 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/frutas/frutos-rojos-y-del-bosque/p/12254",
     "titulo": "Fresón bandeja 500 g",
     "valores_nutricionales_100_g": {},
@@ -412,9 +412,24 @@
     "categorias": [
       "frescos"
     ],
-    "precio_total": 3.39,
-    "precio_por_cantidad": 6.78,
+    "precio_total": 2.49,
+    "precio_por_cantidad": 4.98,
     "peso_volumen": "500 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/frutas/frutos-rojos-y-del-bosque/p/46390",
+    "titulo": "Fresón bandeja 1 Kg",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "frescos"
+    ],
+    "precio_total": 4.9,
+    "precio_por_cantidad": 4.9,
+    "peso_volumen": "1 kg",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -458,21 +473,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/frutas/frutos-rojos-y-del-bosque/p/46390",
-    "titulo": "Fresón bandeja 1 Kg",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
-    "categorias": [
-      "frescos"
-    ],
-    "precio_total": 5.69,
-    "precio_por_cantidad": 5.69,
-    "peso_volumen": "1 kg",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/frutas/frutos-rojos-y-del-bosque/p/133913",
     "titulo": "Frambuesas bandeja 125 g",
     "valores_nutricionales_100_g": {},
@@ -511,6 +511,30 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/frutas/frutas-congeladas/p/309590",
+    "titulo": "Mango congelado Congelados de Navarra bolsa 300 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0g",
+      "Saturadas": "0g",
+      "Hidratos de carbono": "17g",
+      "Azucares": "11g",
+      "Fibra alimentaria": "1.3g",
+      "Proteinas": "0g",
+      "Sal": "0g",
+      "Valor energetico": "72kcal"
+    },
+    "descripcion": "MANGO CN 15/300G",
+    "categorias": [
+      "frescos"
+    ],
+    "precio_total": 1.79,
+    "precio_por_cantidad": 5.97,
+    "peso_volumen": "300 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/charcuteria-y-quesos/jamon-cocido-pavo-y-pollo/p/273810",
     "titulo": "Pechuga de pavo Dia Nuestra Alacena 2 x 200 g",
     "valores_nutricionales_100_g": {
@@ -527,7 +551,7 @@
       "charcuteria"
     ],
     "precio_total": 3.95,
-    "precio_por_cantidad": 8.73,
+    "precio_por_cantidad": 9.88,
     "peso_volumen": "200 g",
     "alergenos": [],
     "origen": "dia",
@@ -573,8 +597,31 @@
       "charcuteria"
     ],
     "precio_total": 1.99,
-    "precio_por_cantidad": 9.95,
+    "precio_por_cantidad": 13.27,
     "peso_volumen": "150 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-cocido-pavo-y-pollo/p/308802",
+    "titulo": "Lacón cortado a mano Dia Nuestra Alacena 170 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3.1g",
+      "Saturadas": "1.2g",
+      "Hidratos de carbono": "1g",
+      "Azucares": "0.5g",
+      "Proteinas": "19.5g",
+      "Sal": "2g",
+      "Valor energetico": "110kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "charcuteria"
+    ],
+    "precio_total": 2.99,
+    "precio_por_cantidad": 17.59,
+    "peso_volumen": "170 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -603,29 +650,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-cocido-pavo-y-pollo/p/305313",
-    "titulo": "Maxi York Dia Nuestra Alacena 350 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "2.5g",
-      "Saturadas": "0.9g",
-      "Hidratos de carbono": "10g",
-      "Azucares": "1g",
-      "Proteinas": "12g",
-      "Sal": "2.2g",
-      "Valor energetico": "111kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "charcuteria"
-    ],
-    "precio_total": 1.99,
-    "precio_por_cantidad": 5.69,
-    "peso_volumen": "350 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/charcuteria-y-quesos/jamon-curado-y-paleta/p/274051",
     "titulo": "Jamón Serrano Dia Nuestra Alacena 200 g",
     "valores_nutricionales_100_g": {
@@ -642,31 +666,8 @@
       "charcuteria"
     ],
     "precio_total": 3.69,
-    "precio_por_cantidad": 13.95,
+    "precio_por_cantidad": 18.45,
     "peso_volumen": "200 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-curado-y-paleta/p/274053",
-    "titulo": "Jamón serrano lonchas extrafinas Dia Nuestra Alacena 120 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "16g",
-      "Saturadas": "5.7g",
-      "Hidratos de carbono": "0.5g",
-      "Azucares": "0.5g",
-      "Proteinas": "27g",
-      "Sal": "4.2g",
-      "Valor energetico": "254kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "charcuteria"
-    ],
-    "precio_total": 2.45,
-    "precio_por_cantidad": 20.42,
-    "peso_volumen": "120 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -690,6 +691,30 @@
     "precio_total": 2.21,
     "precio_por_cantidad": 14.73,
     "peso_volumen": "75 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/jamon-curado-y-paleta/p/118111",
+    "titulo": "Jamón curado Navidul 45 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "10g",
+      "Saturadas": "3.8g",
+      "Hidratos de carbono": "0.5g",
+      "Azucares": "0.5g",
+      "Fibra alimentaria": "0g",
+      "Proteinas": "30g",
+      "Sal": "5g",
+      "Valor energetico": "212kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "charcuteria"
+    ],
+    "precio_total": 1.0,
+    "precio_por_cantidad": 22.22,
+    "peso_volumen": "45 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -741,24 +766,24 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/charcuteria-y-quesos/lomo-chorizo-fuet-y-salchichon/p/274137",
-    "titulo": "Espetec extra Dia Nuestra Alacena 170 g",
+    "url": "https://www.dia.es/charcuteria-y-quesos/lomo-chorizo-fuet-y-salchichon/p/274140",
+    "titulo": "Salchichón extra Dia Nuestra Alacena 2 x 100 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "37g",
-      "Saturadas": "13g",
-      "Hidratos de carbono": "4g",
-      "Azucares": "3g",
-      "Proteinas": "28.5g",
-      "Sal": "5g",
-      "Valor energetico": "463kcal"
+      "Grasas": "19.5g",
+      "Saturadas": "6.8g",
+      "Hidratos de carbono": "5g",
+      "Azucares": "3.5g",
+      "Proteinas": "19g",
+      "Sal": "3.5g",
+      "Valor energetico": "272kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "charcuteria"
     ],
-    "precio_total": 2.25,
-    "precio_por_cantidad": 13.24,
-    "peso_volumen": "170 g",
+    "precio_total": 1.63,
+    "precio_por_cantidad": 8.15,
+    "peso_volumen": "100 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -787,24 +812,24 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/charcuteria-y-quesos/lomo-chorizo-fuet-y-salchichon/p/274140",
-    "titulo": "Salchichón extra Dia Nuestra Alacena 2 x 100 g",
+    "url": "https://www.dia.es/charcuteria-y-quesos/lomo-chorizo-fuet-y-salchichon/p/274063",
+    "titulo": "Lomo embuchado Dia Nuestra Alacena 2 x 70 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "19.5g",
-      "Saturadas": "6.8g",
-      "Hidratos de carbono": "5g",
-      "Azucares": "3.5g",
-      "Proteinas": "19g",
+      "Grasas": "5g",
+      "Saturadas": "1.9g",
+      "Hidratos de carbono": "1.5g",
+      "Azucares": "1.5g",
+      "Proteinas": "34g",
       "Sal": "3.5g",
-      "Valor energetico": "272kcal"
+      "Valor energetico": "187kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "charcuteria"
     ],
-    "precio_total": 1.67,
-    "precio_por_cantidad": 8.35,
-    "peso_volumen": "100 g",
+    "precio_total": 2.52,
+    "precio_por_cantidad": 18.0,
+    "peso_volumen": "70 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -848,8 +873,8 @@
     "categorias": [
       "charcuteria"
     ],
-    "precio_total": 1.75,
-    "precio_por_cantidad": 17.5,
+    "precio_total": 1.6,
+    "precio_por_cantidad": 16.0,
     "peso_volumen": "50 g",
     "alergenos": [],
     "origen": "dia",
@@ -1109,29 +1134,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/charcuteria-y-quesos/pate-foie-y-sobrasada/p/39997",
-    "titulo": "Paté a la pimienta Dia Nuestra Alacena 125 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "26.5g",
-      "Saturadas": "9.9g",
-      "Hidratos de carbono": "1.3g",
-      "Azucares": "1g",
-      "Proteinas": "11.3g",
-      "Sal": "1.72g",
-      "Valor energetico": "289kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "charcuteria"
-    ],
-    "precio_total": 0.86,
-    "precio_por_cantidad": 6.88,
-    "peso_volumen": "125 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/charcuteria-y-quesos/pate-foie-y-sobrasada/p/293539",
     "titulo": "Paté de atún Dia Nuestra Alacena 2 x 75 g",
     "valores_nutricionales_100_g": {
@@ -1150,6 +1152,29 @@
     "precio_total": 1.55,
     "precio_por_cantidad": 10.33,
     "peso_volumen": "75 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/pate-foie-y-sobrasada/p/39997",
+    "titulo": "Paté a la pimienta Dia Nuestra Alacena 125 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "26.5g",
+      "Saturadas": "9.9g",
+      "Hidratos de carbono": "1.3g",
+      "Azucares": "1g",
+      "Proteinas": "11.3g",
+      "Sal": "1.72g",
+      "Valor energetico": "289kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "charcuteria"
+    ],
+    "precio_total": 0.86,
+    "precio_por_cantidad": 6.88,
+    "peso_volumen": "125 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -1216,8 +1241,31 @@
     "categorias": [
       "charcuteria"
     ],
-    "precio_total": 2.69,
-    "precio_por_cantidad": 10.76,
+    "precio_total": 2.46,
+    "precio_por_cantidad": 9.84,
+    "peso_volumen": "250 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-curado-semi-y-tierno/p/108589",
+    "titulo": "Queso curado Dia El Cencerro 250 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "34g",
+      "Saturadas": "24g",
+      "Hidratos de carbono": "1g",
+      "Azucares": "0.5g",
+      "Proteinas": "23g",
+      "Sal": "1.8g",
+      "Valor energetico": "402kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "charcuteria"
+    ],
+    "precio_total": 2.99,
+    "precio_por_cantidad": 11.96,
     "peso_volumen": "250 g",
     "alergenos": [],
     "origen": "dia",
@@ -1247,31 +1295,8 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/charcuteria-y-quesos/queso-curado-semi-y-tierno/p/108589",
-    "titulo": "Queso curado Dia El Cencerro 250 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "34g",
-      "Saturadas": "24g",
-      "Hidratos de carbono": "1g",
-      "Azucares": "0.5g",
-      "Proteinas": "23g",
-      "Sal": "1.8g",
-      "Valor energetico": "402kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "charcuteria"
-    ],
-    "precio_total": 2.99,
-    "precio_por_cantidad": 11.96,
-    "peso_volumen": "250 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/charcuteria-y-quesos/queso-curado-semi-y-tierno/p/263673",
-    "titulo": "Queso tierno cortado Dia El Cencerro 250 g",
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-curado-semi-y-tierno/p/304698",
+    "titulo": "Queso tierno mezcla Dia El Cencerro 250 g",
     "valores_nutricionales_100_g": {
       "Grasas": "32g",
       "Saturadas": "21.6g",
@@ -1285,8 +1310,8 @@
     "categorias": [
       "charcuteria"
     ],
-    "precio_total": 2.94,
-    "precio_por_cantidad": 11.76,
+    "precio_total": 2.24,
+    "precio_por_cantidad": 8.96,
     "peso_volumen": "250 g",
     "alergenos": [],
     "origen": "dia",
@@ -1308,8 +1333,8 @@
     "categorias": [
       "charcuteria"
     ],
-    "precio_total": 1.79,
-    "precio_por_cantidad": 12.79,
+    "precio_total": 1.89,
+    "precio_por_cantidad": 13.5,
     "peso_volumen": "140 g",
     "alergenos": [],
     "origen": "dia",
@@ -1354,8 +1379,8 @@
     "categorias": [
       "charcuteria"
     ],
-    "precio_total": 1.88,
-    "precio_por_cantidad": 7.83,
+    "precio_total": 1.8,
+    "precio_por_cantidad": 7.5,
     "peso_volumen": "240 g",
     "alergenos": [],
     "origen": "dia",
@@ -1424,7 +1449,7 @@
       "charcuteria"
     ],
     "precio_total": 1.35,
-    "precio_por_cantidad": 8.44,
+    "precio_por_cantidad": 6.25,
     "peso_volumen": "160 g",
     "alergenos": [],
     "origen": "dia",
@@ -1477,29 +1502,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-untables-y-fundidos/p/264064",
-    "titulo": "Quesitos Dia Láctea 375 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "19.5g",
-      "Saturadas": "14g",
-      "Hidratos de carbono": "7g",
-      "Azucares": "7g",
-      "Proteinas": "9g",
-      "Sal": "1.8g",
-      "Valor energetico": "240kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "charcuteria"
-    ],
-    "precio_total": 2.1,
-    "precio_por_cantidad": 5.6,
-    "peso_volumen": "375 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/charcuteria-y-quesos/quesos-untables-y-fundidos/p/120200",
     "titulo": "Crema de queso camembert Dia Láctea 125 g",
     "valores_nutricionales_100_g": {
@@ -1523,16 +1525,39 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-untables-y-fundidos/p/296054",
-    "titulo": "Crema de queso de cabra Dia Láctea 125 g",
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-untables-y-fundidos/p/264064",
+    "titulo": "Quesitos Dia Láctea 375 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "19.5g",
+      "Saturadas": "14g",
+      "Hidratos de carbono": "7g",
+      "Azucares": "7g",
+      "Proteinas": "9g",
+      "Sal": "1.8g",
+      "Valor energetico": "240kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "charcuteria"
+    ],
+    "precio_total": 2.1,
+    "precio_por_cantidad": 5.6,
+    "peso_volumen": "375 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/quesos-untables-y-fundidos/p/296013",
+    "titulo": "Crema de queso semicurado Dia Láctea 125 g",
     "valores_nutricionales_100_g": {
       "Grasas": "25g",
-      "Saturadas": "15.8g",
-      "Hidratos de carbono": "1.3g",
-      "Azucares": "1.3g",
-      "Proteinas": "12.2g",
+      "Saturadas": "17g",
+      "Hidratos de carbono": "2g",
+      "Azucares": "0.5g",
+      "Proteinas": "12g",
       "Sal": "2g",
-      "Valor energetico": "279kcal"
+      "Valor energetico": "281kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
@@ -1562,31 +1587,8 @@
       "charcuteria"
     ],
     "precio_total": 1.15,
-    "precio_por_cantidad": 4.6,
+    "precio_por_cantidad": 4.0,
     "peso_volumen": "62.5 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/charcuteria-y-quesos/queso-fresco/p/108698",
-    "titulo": "Mozzarella fior di latte 100% natural Dia Selección Mundial 125 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "17.5g",
-      "Saturadas": "12.3g",
-      "Hidratos de carbono": "0.5g",
-      "Azucares": "0.2g",
-      "Proteinas": "18.2g",
-      "Sal": "0.34g",
-      "Valor energetico": "232kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "charcuteria"
-    ],
-    "precio_total": 1.19,
-    "precio_por_cantidad": 9.52,
-    "peso_volumen": "125 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -1616,23 +1618,47 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/charcuteria-y-quesos/queso-fresco/p/303551",
-    "titulo": "Queso fresco de Burgos Dia Láctea 250 g",
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-fresco/p/108698",
+    "titulo": "Mozzarella fior di latte 100% natural Dia Selección Mundial 125 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "12g",
-      "Saturadas": "8g",
-      "Hidratos de carbono": "3.6g",
-      "Azucares": "3.6g",
-      "Proteinas": "11g",
-      "Sal": "0.8g",
-      "Valor energetico": "166kcal"
+      "Grasas": "17.5g",
+      "Saturadas": "12.3g",
+      "Hidratos de carbono": "0.5g",
+      "Azucares": "0.2g",
+      "Proteinas": "18.2g",
+      "Sal": "0.34g",
+      "Valor energetico": "232kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "charcuteria"
     ],
-    "precio_total": 1.09,
-    "precio_por_cantidad": 4.36,
+    "precio_total": 1.19,
+    "precio_por_cantidad": 9.52,
+    "peso_volumen": "125 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/charcuteria-y-quesos/queso-fresco/p/265592",
+    "titulo": "Queso fresco de cabra Dia El Cencerro 250 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "21g",
+      "Saturadas": "15.7g",
+      "Hidratos de carbono": "1.6g",
+      "Azucares": "1.4g",
+      "Fibra alimentaria": "1g",
+      "Proteinas": "13.5g",
+      "Sal": "0.8g",
+      "Valor energetico": "249kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "charcuteria"
+    ],
+    "precio_total": 2.9,
+    "precio_por_cantidad": 11.6,
     "peso_volumen": "250 g",
     "alergenos": [],
     "origen": "dia",
@@ -1700,6 +1726,21 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/panaderia/pan-recien-horneado/p/295264",
+    "titulo": "Hogaza El molino de Dia 350 g",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "panaderia"
+    ],
+    "precio_total": 0.99,
+    "precio_por_cantidad": 2.83,
+    "peso_volumen": "350 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/panaderia/pan-recien-horneado/p/157982",
     "titulo": "Chapata El molino de Dia 300 g",
     "valores_nutricionales_100_g": {},
@@ -1725,21 +1766,6 @@
     "precio_total": 0.89,
     "precio_por_cantidad": 1.98,
     "peso_volumen": "450 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/panaderia/pan-recien-horneado/p/300469",
-    "titulo": "Hogaza de maíz 20% de masa madre El molino de Dia 330 g",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
-    "categorias": [
-      "panaderia"
-    ],
-    "precio_total": 1.19,
-    "precio_por_cantidad": 3.61,
-    "peso_volumen": "330 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -1793,25 +1819,24 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/266075",
-    "titulo": "Pan de molde trigo integral El molino de Dia 820 g",
+    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/309605",
+    "titulo": "Panecillos 8 unidades El molino de Dia 360 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "2.2g",
-      "Saturadas": "0.3g",
-      "Hidratos de carbono": "49.3g",
-      "Azucares": "3g",
-      "Fibra alimentaria": "5.4g",
-      "Proteinas": "8.8g",
-      "Sal": "1.1g",
-      "Valor energetico": "263kcal"
+      "Grasas": "1.5g",
+      "Saturadas": "0.2g",
+      "Hidratos de carbono": "52.8g",
+      "Azucares": "2.2g",
+      "Proteinas": "7.1g",
+      "Sal": "1.4g",
+      "Valor energetico": "255kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "panaderia"
     ],
-    "precio_total": 1.29,
-    "precio_por_cantidad": 1.57,
-    "peso_volumen": "820 g",
+    "precio_total": 1.0,
+    "precio_por_cantidad": 2.78,
+    "peso_volumen": "360 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -1841,24 +1866,25 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/309605",
-    "titulo": "Panecillos 8 unidades El molino de Dia 360 g",
+    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/266075",
+    "titulo": "Pan de molde trigo integral El molino de Dia 820 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "1.5g",
-      "Saturadas": "0.2g",
-      "Hidratos de carbono": "52.8g",
-      "Azucares": "2.2g",
-      "Proteinas": "7.1g",
-      "Sal": "1.4g",
-      "Valor energetico": "255kcal"
+      "Grasas": "2.2g",
+      "Saturadas": "0.3g",
+      "Hidratos de carbono": "49.3g",
+      "Azucares": "3g",
+      "Fibra alimentaria": "5.4g",
+      "Proteinas": "8.8g",
+      "Sal": "1.1g",
+      "Valor energetico": "263kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "panaderia"
     ],
-    "precio_total": 1.0,
-    "precio_por_cantidad": 2.78,
-    "peso_volumen": "360 g",
+    "precio_total": 1.29,
+    "precio_por_cantidad": 1.57,
+    "peso_volumen": "820 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -2022,7 +2048,7 @@
       "panaderia"
     ],
     "precio_total": 1.38,
-    "precio_por_cantidad": 4.31,
+    "precio_por_cantidad": 3.13,
     "peso_volumen": "320 g",
     "alergenos": [],
     "origen": "dia",
@@ -2076,25 +2102,25 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/panaderia/tortillas-de-trigo-y-pitas/p/310260",
-    "titulo": "Mini tortillas de trigo Dulcesol 300 g",
+    "url": "https://www.dia.es/panaderia/tortillas-de-trigo-y-pitas/p/20647",
+    "titulo": "Tortillas de maíz Mexifoods 250 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "7.1g",
-      "Saturadas": "1.2g",
-      "Hidratos de carbono": "53g",
-      "Azucares": "5.3g",
-      "Fibra alimentaria": "2.7g",
-      "Proteinas": "7.8g",
-      "Sal": "0.95g",
-      "Valor energetico": "313kcal"
+      "Grasas": "2.2g",
+      "Saturadas": "0.4g",
+      "Hidratos de carbono": "43g",
+      "Azucares": "0.8g",
+      "Fibra alimentaria": "6.4g",
+      "Proteinas": "5.3g",
+      "Sal": "0.98g",
+      "Valor energetico": "226kcal"
     },
-    "descripcion": "Valor nutricional",
+    "descripcion": "Tortillas de maíz Mexifoods ideales para Tacos. Es un delicioso pan plano redondo, se puede usar para envolver cualquier tipo de comida a elección.",
     "categorias": [
       "panaderia"
     ],
-    "precio_total": 1.65,
-    "precio_por_cantidad": 5.5,
-    "peso_volumen": "300 g",
+    "precio_total": 1.99,
+    "precio_por_cantidad": 7.96,
+    "peso_volumen": "250 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -2118,54 +2144,6 @@
     "precio_total": 1.39,
     "precio_por_cantidad": 13.9,
     "peso_volumen": "100 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/299085",
-    "titulo": "Pan de molde con semillas sin gluten El molino de Dia 280 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "8.5g",
-      "Saturadas": "1g",
-      "Hidratos de carbono": "54.4g",
-      "Azucares": "5.3g",
-      "Fibra alimentaria": "4g",
-      "Proteinas": "1.8g",
-      "Sal": "1.34g",
-      "Valor energetico": "309kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "panaderia"
-    ],
-    "precio_total": 1.88,
-    "precio_por_cantidad": 6.71,
-    "peso_volumen": "280 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/panaderia/tortillas-de-trigo-y-pitas/p/250632",
-    "titulo": "Tortillas sin gluten Old El Paso 216 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "1.5g",
-      "Saturadas": "0.6g",
-      "Hidratos de carbono": "59.2g",
-      "Azucares": "2.3g",
-      "Fibra alimentaria": "3.9g",
-      "Proteinas": "1.9g",
-      "Sal": "1.17g",
-      "Valor energetico": "266kcal"
-    },
-    "descripcion": "6 Tortillas Mexicanas Sin Gluten Old El Paso, Pack 216g",
-    "categorias": [
-      "panaderia"
-    ],
-    "precio_total": 3.21,
-    "precio_por_cantidad": 14.86,
-    "peso_volumen": "216 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -2195,6 +2173,54 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/panaderia/pan-de-molde-y-especiales/p/299085",
+    "titulo": "Pan de molde con semillas sin gluten El molino de Dia 280 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "8.5g",
+      "Saturadas": "1g",
+      "Hidratos de carbono": "54.4g",
+      "Azucares": "5.3g",
+      "Fibra alimentaria": "4g",
+      "Proteinas": "1.8g",
+      "Sal": "1.34g",
+      "Valor energetico": "309kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "panaderia"
+    ],
+    "precio_total": 1.88,
+    "precio_por_cantidad": 6.71,
+    "peso_volumen": "280 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/panaderia/pan-para-hamburguesas-y-perritos/p/300803",
+    "titulo": "Pan de hamburguesa sin gluten El molino de Dia 170 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "4.9g",
+      "Saturadas": "0.45g",
+      "Hidratos de carbono": "48g",
+      "Azucares": "5.4g",
+      "Fibra alimentaria": "6.3g",
+      "Proteinas": "2.6g",
+      "Sal": "0.92g",
+      "Valor energetico": "258kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "panaderia"
+    ],
+    "precio_total": 1.88,
+    "precio_por_cantidad": 11.06,
+    "peso_volumen": "170 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/panaderia/pan-sin-gluten/p/299092",
     "titulo": "Chapata sin gluten El molino de Dia 120 g",
     "valores_nutricionales_100_g": {
@@ -2213,6 +2239,30 @@
     "precio_total": 1.55,
     "precio_por_cantidad": 12.92,
     "peso_volumen": "120 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/panaderia/pan-tostado-rallado-y-picatostes/p/5387",
+    "titulo": "Pan tostado integral El molino de Dia 270 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.6g",
+      "Saturadas": "0.7g",
+      "Hidratos de carbono": "59g",
+      "Azucares": "3.8g",
+      "Fibra alimentaria": "14g",
+      "Proteinas": "14g",
+      "Sal": "0.92g",
+      "Valor energetico": "370kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "panaderia"
+    ],
+    "precio_total": 1.39,
+    "precio_por_cantidad": 5.15,
+    "peso_volumen": "270 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -2242,6 +2292,29 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/panaderia/pan-tostado-rallado-y-picatostes/p/303607",
+    "titulo": "Pan rallado Onena 750 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.7g",
+      "Saturadas": "0.6g",
+      "Hidratos de carbono": "80g",
+      "Azucares": "3.3g",
+      "Proteinas": "10g",
+      "Sal": "0.3g",
+      "Valor energetico": "382kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "panaderia"
+    ],
+    "precio_total": 0.94,
+    "precio_por_cantidad": 1.25,
+    "peso_volumen": "750 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/panaderia/pan-tostado-rallado-y-picatostes/p/277709",
     "titulo": "Pan de pipas Dia Naturmundo 90 g",
     "valores_nutricionales_100_g": {
@@ -2260,53 +2333,6 @@
     "precio_total": 0.79,
     "precio_por_cantidad": 8.78,
     "peso_volumen": "90 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/panaderia/pan-tostado-rallado-y-picatostes/p/60049",
-    "titulo": "Picatostes fritos El molino de Dia 75 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "21g",
-      "Saturadas": "1.8g",
-      "Hidratos de carbono": "57g",
-      "Azucares": "3.5g",
-      "Proteinas": "12g",
-      "Sal": "1.2g",
-      "Valor energetico": "477kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "panaderia"
-    ],
-    "precio_total": 0.69,
-    "precio_por_cantidad": 9.2,
-    "peso_volumen": "75 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/panaderia/pan-tostado-rallado-y-picatostes/p/5387",
-    "titulo": "Pan tostado integral El molino de Dia 270 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "5.6g",
-      "Saturadas": "0.7g",
-      "Hidratos de carbono": "59g",
-      "Azucares": "3.8g",
-      "Fibra alimentaria": "14g",
-      "Proteinas": "14g",
-      "Sal": "0.92g",
-      "Valor energetico": "370kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "panaderia"
-    ],
-    "precio_total": 1.39,
-    "precio_por_cantidad": 5.15,
-    "peso_volumen": "270 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -2360,6 +2386,52 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/panaderia/picos-y-crackers/p/271976",
+    "titulo": "Cóctel de picos El molino de Dia 250 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.3g",
+      "Saturadas": "0.8g",
+      "Hidratos de carbono": "71.8g",
+      "Azucares": "3.3g",
+      "Proteinas": "11.5g",
+      "Sal": "0.01g",
+      "Valor energetico": "392kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "panaderia"
+    ],
+    "precio_total": 1.19,
+    "precio_por_cantidad": 4.0,
+    "peso_volumen": "250 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/panaderia/picos-y-crackers/p/221636",
+    "titulo": "Picos camperos El molino de Dia 250 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.3g",
+      "Saturadas": "0.8g",
+      "Hidratos de carbono": "71.8g",
+      "Azucares": "3.3g",
+      "Proteinas": "11.5g",
+      "Sal": "1.9g",
+      "Valor energetico": "392kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "panaderia"
+    ],
+    "precio_total": 0.99,
+    "precio_por_cantidad": 3.96,
+    "peso_volumen": "250 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/panaderia/picos-y-crackers/p/273116",
     "titulo": "Regañás El molino de Dia 250 g",
     "valores_nutricionales_100_g": {
@@ -2384,48 +2456,93 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/panaderia/picos-y-crackers/p/271977",
-    "titulo": "Picos rústicos con aceite de oliva El molino de Dia 130 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "3.3g",
-      "Saturadas": "0.6g",
-      "Hidratos de carbono": "75.8g",
-      "Azucares": "2.5g",
-      "Fibra alimentaria": "3.4g",
-      "Proteinas": "12.3g",
-      "Sal": "2.44g",
-      "Valor energetico": "389kcal"
-    },
-    "descripcion": "Valor nutricional",
+    "url": "https://www.dia.es/panaderia/horno/p/274318",
+    "titulo": "Napolitana mixta El Molino de Dia 150 g",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
     "categorias": [
       "panaderia"
     ],
-    "precio_total": 1.29,
-    "precio_por_cantidad": 9.92,
-    "peso_volumen": "130 g",
+    "precio_total": 0.75,
+    "precio_por_cantidad": 5.0,
+    "peso_volumen": "150 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/panaderia/picos-y-crackers/p/271976",
-    "titulo": "Cóctel de picos El molino de Dia 250 g",
+    "url": "https://www.dia.es/panaderia/horno/p/275075",
+    "titulo": "Mini delicia de atún El molino de Dia 18 g",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "panaderia"
+    ],
+    "precio_total": 0.15,
+    "precio_por_cantidad": 8.33,
+    "peso_volumen": "18 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/panaderia/horno/p/275074",
+    "titulo": "Mini delicia mixta El molino de Dia 18 g",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "panaderia"
+    ],
+    "precio_total": 0.15,
+    "precio_por_cantidad": 8.33,
+    "peso_volumen": "18 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/tortillas-y-empanadas/p/307540",
+    "titulo": "Empanada de atún El molino de Dia 500 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "5.3g",
-      "Saturadas": "0.8g",
-      "Hidratos de carbono": "71.8g",
-      "Azucares": "3.3g",
-      "Proteinas": "11.5g",
-      "Sal": "0.01g",
-      "Valor energetico": "392kcal"
+      "Grasas": "14g",
+      "Saturadas": "2.8g",
+      "Hidratos de carbono": "28g",
+      "Azucares": "2.3g",
+      "Fibra alimentaria": "1.5g",
+      "Proteinas": "9g",
+      "Sal": "1.3g",
+      "Valor energetico": "277kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "panaderia"
     ],
-    "precio_total": 1.19,
-    "precio_por_cantidad": 4.76,
-    "peso_volumen": "250 g",
+    "precio_total": 3.6,
+    "precio_por_cantidad": 7.2,
+    "peso_volumen": "500 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/tortillas-y-empanadas/p/196890",
+    "titulo": "Empanada de pollo El molino de Dia 120 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "8g",
+      "Saturadas": "1g",
+      "Hidratos de carbono": "32g",
+      "Azucares": "1g",
+      "Proteinas": "7g",
+      "Sal": "1g",
+      "Valor energetico": "231kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "panaderia"
+    ],
+    "precio_total": 0.69,
+    "precio_por_cantidad": 5.75,
+    "peso_volumen": "120 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -2447,7 +2564,7 @@
       "panaderia"
     ],
     "precio_total": 1.19,
-    "precio_por_cantidad": 5.17,
+    "precio_por_cantidad": 4.35,
     "peso_volumen": "230 g",
     "alergenos": [],
     "origen": "dia",
@@ -2470,7 +2587,7 @@
       "panaderia"
     ],
     "precio_total": 1.15,
-    "precio_por_cantidad": 4.42,
+    "precio_por_cantidad": 3.85,
     "peso_volumen": "260 g",
     "alergenos": [],
     "origen": "dia",
@@ -2572,6 +2689,29 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/panaderia/harinas-y-levaduras/p/197503",
+    "titulo": "Preparado para hornear en polvo Dia Delimagic 90 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.1g",
+      "Saturadas": "0g",
+      "Hidratos de carbono": "21.5g",
+      "Azucares": "0g",
+      "Proteinas": "0.1g",
+      "Sal": "44.68g",
+      "Valor energetico": "87kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "panaderia"
+    ],
+    "precio_total": 0.69,
+    "precio_por_cantidad": 7.67,
+    "peso_volumen": "90 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/panaderia/harinas-y-levaduras/p/247514",
     "titulo": "Levadura fresca Levanova 2 x 25 g",
     "valores_nutricionales_100_g": {
@@ -2613,29 +2753,6 @@
     "precio_total": 0.95,
     "precio_por_cantidad": 0.95,
     "peso_volumen": "1 kg",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/panaderia/harinas-y-levaduras/p/197503",
-    "titulo": "Preparado para hornear en polvo Dia Delimagic 90 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.1g",
-      "Saturadas": "0g",
-      "Hidratos de carbono": "21.5g",
-      "Azucares": "0g",
-      "Proteinas": "0.1g",
-      "Sal": "44.68g",
-      "Valor energetico": "87kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "panaderia"
-    ],
-    "precio_total": 0.69,
-    "precio_por_cantidad": 7.67,
-    "peso_volumen": "90 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -2703,8 +2820,8 @@
     "categorias": [
       "lacteos"
     ],
-    "precio_total": 3.3,
-    "precio_por_cantidad": 3.3,
+    "precio_total": 3.2,
+    "precio_por_cantidad": 3.2,
     "peso_volumen": "",
     "alergenos": [],
     "origen": "dia",
@@ -2726,8 +2843,8 @@
     "categorias": [
       "lacteos"
     ],
-    "precio_total": 3.1,
-    "precio_por_cantidad": 3.1,
+    "precio_total": 3.0,
+    "precio_por_cantidad": 3.0,
     "peso_volumen": "",
     "alergenos": [],
     "origen": "dia",
@@ -2899,12 +3016,12 @@
     "titulo": "Leche semidesnatada sin lactosa Dia Láctea pack 6 x 1 L",
     "valores_nutricionales_100_g": {
       "Grasas": "1.5g",
-      "Saturadas": "1.1g",
-      "Hidratos de carbono": "4.8g",
-      "Azucares": "4.8g",
+      "Saturadas": "1g",
+      "Hidratos de carbono": "4.7g",
+      "Azucares": "4.7g",
       "Proteinas": "3.2g",
-      "Sal": "0.12g",
-      "Valor energetico": "46kcal"
+      "Sal": "0.13g",
+      "Valor energetico": "45kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
@@ -2945,12 +3062,12 @@
     "titulo": "Leche semidesnatada sin lactosa Dia Láctea 1 L",
     "valores_nutricionales_100_g": {
       "Grasas": "1.5g",
-      "Saturadas": "1.1g",
-      "Hidratos de carbono": "4.8g",
-      "Azucares": "4.8g",
+      "Saturadas": "1g",
+      "Hidratos de carbono": "4.7g",
+      "Azucares": "4.7g",
       "Proteinas": "3.2g",
-      "Sal": "0.12g",
-      "Valor energetico": "46kcal"
+      "Sal": "0.13g",
+      "Valor energetico": "45kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
@@ -2987,23 +3104,23 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche-sin-lactosa-y-enriquecidas/p/225278P6",
-    "titulo": "Leche entera sin lactosa Dia Láctea pack 6 x 1 L",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche-sin-lactosa-y-enriquecidas/p/185450",
+    "titulo": "Leche desnatada sin lactosa Dia Láctea 1 L",
     "valores_nutricionales_100_g": {
-      "Grasas": "3.6g",
-      "Saturadas": "2.3g",
-      "Hidratos de carbono": "4.6g",
-      "Azucares": "4.6g",
-      "Proteinas": "3.1g",
+      "Grasas": "0.2g",
+      "Saturadas": "0.1g",
+      "Hidratos de carbono": "4.8g",
+      "Azucares": "4.8g",
+      "Proteinas": "3.3g",
       "Sal": "0.13g",
-      "Valor energetico": "63kcal"
+      "Valor energetico": "34kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "lacteos"
     ],
-    "precio_total": 6.24,
-    "precio_por_cantidad": 1.04,
+    "precio_total": 0.93,
+    "precio_por_cantidad": 0.93,
     "peso_volumen": "1 l",
     "alergenos": [],
     "origen": "dia",
@@ -3033,23 +3150,23 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/bebidas-vegetales/p/302799",
-    "titulo": "Bebida de avena barista Dia Vegedia 1 L",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/bebidas-vegetales/p/267684",
+    "titulo": "Bebida de almendras 0% azúcares Dia Vegedia 1 L",
     "valores_nutricionales_100_g": {
-      "Grasas": "1.5g",
+      "Grasas": "2.2g",
       "Saturadas": "0.2g",
-      "Hidratos de carbono": "8.5g",
-      "Azucares": "5.9g",
-      "Proteinas": "1.3g",
+      "Hidratos de carbono": "0.3g",
+      "Azucares": "0g",
+      "Proteinas": "0.8g",
       "Sal": "0.14g",
-      "Valor energetico": "54kcal"
+      "Valor energetico": "24kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "lacteos"
     ],
-    "precio_total": 0.99,
-    "precio_por_cantidad": 0.99,
+    "precio_total": 1.49,
+    "precio_por_cantidad": 1.49,
     "peso_volumen": "1 l",
     "alergenos": [],
     "origen": "dia",
@@ -3148,48 +3265,47 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/bebe/leche-para-bebes/p/129519",
-    "titulo": "Bebida láctea con cereales crecimiento y desarrollo Puleva 1 L",
+    "url": "https://www.dia.es/bebe/leche-para-bebes/p/108337",
+    "titulo": "Leche infantil en polvo de continuacion de 6 a 12 meses Nativa 800 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "2.8g",
-      "Saturadas": "0.9g",
-      "Hidratos de carbono": "9.8g",
-      "Azucares": "6.5g",
-      "Fibra alimentaria": "0.1g",
-      "Proteinas": "3g",
-      "Sal": "0.18g",
-      "Valor energetico": "77kcal"
+      "Grasas": "23.6g",
+      "Saturadas": "2.3g",
+      "Hidratos de carbono": "61g",
+      "Azucares": "39.2g",
+      "Proteinas": "9.4g",
+      "Valor energetico": "494kcal"
     },
-    "descripcion": "Durante la etapa de crecimiento, en el niño se producen una serie de cambios fisiológicos que afectan de manera muy importante a su desarrollo físico e intelectual. Los niños, por su alta actividad física, necesitan un aporte energético mayor. Por eso, Puleva Max con Cereales se adapta mejor a los niños con más actividad o aquellos que tienen mayor dificultad a la hora de comer.\n\nPuleva Max con cereales, con un magnífico sabor, está especialmente adaptada a las necesidades nutricionales del niño a partir de los 3 años gracias a su fórmula única que aporta Omega 3 DHA + Hierro, nutrientes esenciales para el desarrollo físico, visual e intelectual del niño en esta etapa. Siendo por tanto una leche muy recomendada para niños a partir de 3 años.\n\nPuleva Max con cereales, con el sabor preferido de los niños y con un aporte calórico más equilibrado que el de la leche de vaca al tener un menor contenido de grasa. Asimismo incorpora una mayor cantidad de calcio y vitamina D y además de estar enriquecida con vitaminas (A, B1, B2, B3, B5, B6, B8, B9, C y E) y en fósforo, magnesio y zinc, nutrientes fundamentales para el correcto desarrollo del niño.",
+    "descripcion": "Nestlé NATIVA 2 es una leche de continuación que ayuda a que tu bebé tenga unas buenas bases nutricionales a partir de los 6 meses para su óptimo desarrollo. Con DHA ( Omega 3) que contribuye al desarrollo visual normal y hierro que favorece el desarrollo cognitivo normal. También contiene calcio y vitamina D que favorecen el normal crecimiento de los huesos y vitaminas A y C que contribuyen a la función normal del sistema inmunitario. NOTA IMPORTANTE: Creemos que la lactancia materna es la nutrición ideal para el bebé desde el nacimiento y apoyamos firmemente la recomendación de la Organización Mundial de la Salud de ofrecer lactancia materna exclusiva durante los seis primeros meses de vida, seguida de la introducción de una adecuada y nutritiva alimentación complementaria y manteniendo la lactancia materna hasta los dos años de vida. También reconocemos que la lactancia materna no siempre es una opción para todos los padres. Recomendamos consultar al profesional de la salud cómo alimentar a vuestro bebé y buscar consejo sobre como introducir la alimentación complementaria. Si elegís no dar lactancia materna, por favor recordad que tal decisión puede ser difícil de revertir y tiene implicaciones socioeconómicas. Introducir la fórmula infantil parcialmente reducirá la producción de leche.",
     "categorias": [
       "lacteos"
     ],
-    "precio_total": 1.89,
-    "precio_por_cantidad": 1.59,
-    "peso_volumen": "1 l",
+    "precio_total": 11.95,
+    "precio_por_cantidad": 14.94,
+    "peso_volumen": "800 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/bebe/leche-para-bebes/p/307334",
-    "titulo": "Bebida láctea infantil de crecimiento Peques 3 Puleva 3 x 200 ml",
+    "url": "https://www.dia.es/bebe/leche-para-bebes/p/105590",
+    "titulo": "Leche infantil crecimiento con cereales Peques 3 Puleva 1 L",
     "valores_nutricionales_100_g": {
-      "Grasas": "3.1g",
-      "Saturadas": "1.2g",
-      "Hidratos de carbono": "5.7g",
-      "Azucares": "2.6g",
-      "Proteinas": "1.7g",
+      "Grasas": "3.5g",
+      "Saturadas": "1.4g",
+      "Hidratos de carbono": "9.3g",
+      "Azucares": "4g",
+      "Fibra alimentaria": "0.1g",
+      "Proteinas": "2.4g",
       "Sal": "0.11g",
-      "Valor energetico": "58kcal"
+      "Valor energetico": "79kcal"
     },
-    "descripcion": "Puleva Peques 3 es la mejor leche de crecimiento líquida para tu hijo porque es la única que aporta Omega 3 DHA + Hierro, que son nutrientes esenciales para el desarrollo físico, visual e intelectual del niño en esta etapa. El periodo crítico del desarrollo cerebral de un niño tiene lugar entre el último trimestre del embarazo y los 2 ó 3 años de edad. Tanto el Omega 3 DHA como el Hierro juegan un papel clave en este proceso de maduración del cerebro y de la retina del niño. Puleva Peques 3 aporta 13 veces más cantidad de hierro que la leche de vaca, que es deficiente en este mineral y una energía similar a la de la leche materna pero garantizando la ingesta adecuada de calcio y vitamina D; así como la cantidad suficiente de cinc, yodo, folato y vitamina E, fundamentales para el correcto desarrollo del niño. Además, junto con otros elementos nutricionales que, si bien no se consideran esenciales para el crecimiento, aportan un beneficio para la salud del niño.",
+    "descripcion": "Puleva Max con cereales, con un magnífico sabor, está especialmente adaptada a las necesidades nutricionales del niño a partir de los 3 años gracias a su fórmula única que aporta Omega 3 DHA + Hierro, nutrientes esenciales para el desarrollo físico, visual e intelectual del niño en esta etapa. Siendo por tanto una leche muy recomendada para niños a partir de 3 años.\nPuleva Max con cereales, con el sabor preferido de los niños y con un aporte calórico más equilibrado que el de la leche de vaca al tener un menor contenido de grasa. Asimismo incorpora una mayor cantidad de calcio y vitamina D y además de estar enriquecida con vitaminas (A, B1, B2, B3, B5, B6, B8, B9, C y E) y en fósforo, magnesio y zinc, nutrientes fundamentales para el correcto desarrollo del niño.",
     "categorias": [
       "lacteos"
     ],
-    "precio_total": 2.0,
-    "precio_por_cantidad": 3.33,
-    "peso_volumen": "200 ml",
+    "precio_total": 1.99,
+    "precio_por_cantidad": 1.99,
+    "peso_volumen": "1 l",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -3218,23 +3334,23 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/bebe/leche-para-bebes/p/105590",
-    "titulo": "Leche infantil crecimiento con cereales Peques 3 Puleva 1 L",
+    "url": "https://www.dia.es/bebe/leche-para-bebes/p/129519",
+    "titulo": "Bebida láctea con cereales crecimiento y desarrollo Puleva 1 L",
     "valores_nutricionales_100_g": {
-      "Grasas": "3.5g",
-      "Saturadas": "1.4g",
-      "Hidratos de carbono": "9.3g",
-      "Azucares": "4g",
+      "Grasas": "2.8g",
+      "Saturadas": "0.9g",
+      "Hidratos de carbono": "9.8g",
+      "Azucares": "6.5g",
       "Fibra alimentaria": "0.1g",
-      "Proteinas": "2.4g",
-      "Sal": "0.11g",
-      "Valor energetico": "79kcal"
+      "Proteinas": "3g",
+      "Sal": "0.18g",
+      "Valor energetico": "77kcal"
     },
-    "descripcion": "Puleva Max con cereales, con un magnífico sabor, está especialmente adaptada a las necesidades nutricionales del niño a partir de los 3 años gracias a su fórmula única que aporta Omega 3 DHA + Hierro, nutrientes esenciales para el desarrollo físico, visual e intelectual del niño en esta etapa. Siendo por tanto una leche muy recomendada para niños a partir de 3 años.\nPuleva Max con cereales, con el sabor preferido de los niños y con un aporte calórico más equilibrado que el de la leche de vaca al tener un menor contenido de grasa. Asimismo incorpora una mayor cantidad de calcio y vitamina D y además de estar enriquecida con vitaminas (A, B1, B2, B3, B5, B6, B8, B9, C y E) y en fósforo, magnesio y zinc, nutrientes fundamentales para el correcto desarrollo del niño.",
+    "descripcion": "Durante la etapa de crecimiento, en el niño se producen una serie de cambios fisiológicos que afectan de manera muy importante a su desarrollo físico e intelectual. Los niños, por su alta actividad física, necesitan un aporte energético mayor. Por eso, Puleva Max con Cereales se adapta mejor a los niños con más actividad o aquellos que tienen mayor dificultad a la hora de comer.\n\nPuleva Max con cereales, con un magnífico sabor, está especialmente adaptada a las necesidades nutricionales del niño a partir de los 3 años gracias a su fórmula única que aporta Omega 3 DHA + Hierro, nutrientes esenciales para el desarrollo físico, visual e intelectual del niño en esta etapa. Siendo por tanto una leche muy recomendada para niños a partir de 3 años.\n\nPuleva Max con cereales, con el sabor preferido de los niños y con un aporte calórico más equilibrado que el de la leche de vaca al tener un menor contenido de grasa. Asimismo incorpora una mayor cantidad de calcio y vitamina D y además de estar enriquecida con vitaminas (A, B1, B2, B3, B5, B6, B8, B9, C y E) y en fósforo, magnesio y zinc, nutrientes fundamentales para el correcto desarrollo del niño.",
     "categorias": [
       "lacteos"
     ],
-    "precio_total": 1.99,
+    "precio_total": 1.89,
     "precio_por_cantidad": 1.89,
     "peso_volumen": "1 l",
     "alergenos": [],
@@ -3358,114 +3474,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos-altos-en-proteinas/p/304179",
-    "titulo": "Batido alto en proteínas sabor chocolate Dia Láctea botella 330 ml",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.3g",
-      "Saturadas": "0.2g",
-      "Hidratos de carbono": "5.1g",
-      "Azucares": "4.9g",
-      "Proteinas": "10g",
-      "Sal": "0.13g",
-      "Valor energetico": "64kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "lacteos"
-    ],
-    "precio_total": 1.3,
-    "precio_por_cantidad": 3.94,
-    "peso_volumen": "330 ml",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos-altos-en-proteinas/p/304180",
-    "titulo": "Batido alto en proteínas sabor vainilla Dia Láctea botella 330 ml",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.1g",
-      "Saturadas": "0.1g",
-      "Hidratos de carbono": "5g",
-      "Azucares": "5g",
-      "Proteinas": "10g",
-      "Sal": "0.13g",
-      "Valor energetico": "61kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "lacteos"
-    ],
-    "precio_total": 1.3,
-    "precio_por_cantidad": 3.94,
-    "peso_volumen": "330 ml",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos-altos-en-proteinas/p/308438",
-    "titulo": "Batido alto en proteínas sabor pistacho Ehrmann brik 330 ml",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "La bebida High Protein es la opción perfecta antes y después del entrenamiento como un refrigerio nutritivo y dulce en un práctico TetraPak para llevar. Rica en proteínas, con pocas calorías, sin azúcares añadidos, sin lactosa ni gluten. Contiene 10 g de proteína por cada 100 g",
-    "categorias": [
-      "lacteos"
-    ],
-    "precio_total": 1.45,
-    "precio_por_cantidad": 4.39,
-    "peso_volumen": "330 ml",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/yogures-y-postres/yogures-liquidos/p/303676",
-    "titulo": "Bebida de yogur sabor fresa y plátano alta en proteínas Dia Láctea botella 250 ml",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.6g",
-      "Saturadas": "0.3g",
-      "Hidratos de carbono": "4.9g",
-      "Azucares": "4.9g",
-      "Proteinas": "9.4g",
-      "Sal": "0.1g",
-      "Valor energetico": "66kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "lacteos"
-    ],
-    "precio_total": 1.25,
-    "precio_por_cantidad": 5.0,
-    "peso_volumen": "250 ml",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/batidos-altos-en-proteinas/p/303966",
-    "titulo": "Batido alto en proteínas sabor cookie cream Just loading botella 225 ml",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.2g",
-      "Saturadas": "0.1g",
-      "Hidratos de carbono": "5.5g",
-      "Azucares": "5.3g",
-      "Fibra alimentaria": "0g",
-      "Proteinas": "8.9g",
-      "Sal": "0.19g",
-      "Valor energetico": "59kcal"
-    },
-    "descripcion": "Batido Proteico Galleta",
-    "categorias": [
-      "lacteos"
-    ],
-    "precio_total": 1.65,
-    "precio_por_cantidad": 7.33,
-    "peso_volumen": "225 ml",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/huevos-leche-y-mantequilla/leche-condensada-y-evaporada/p/57797",
     "titulo": "Leche condensada Dia Láctea 450 g",
     "valores_nutricionales_100_g": {
@@ -3583,16 +3591,16 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/mantequilla-y-margarina/p/268200",
-    "titulo": "Mantequilla con sal Dia Láctea 250 g",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/mantequilla-y-margarina/p/268201",
+    "titulo": "Mantequilla sin sal Dia Láctea 250 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "81g",
-      "Saturadas": "55g",
+      "Grasas": "82g",
+      "Saturadas": "56g",
       "Hidratos de carbono": "0.8g",
       "Azucares": "0.8g",
       "Proteinas": "0.5g",
-      "Sal": "1g",
-      "Valor energetico": "734kcal"
+      "Sal": "0.05g",
+      "Valor energetico": "743kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
@@ -3606,16 +3614,16 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/mantequilla-y-margarina/p/268201",
-    "titulo": "Mantequilla sin sal Dia Láctea 250 g",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/mantequilla-y-margarina/p/268200",
+    "titulo": "Mantequilla con sal Dia Láctea 250 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "82g",
-      "Saturadas": "56g",
+      "Grasas": "81g",
+      "Saturadas": "55g",
       "Hidratos de carbono": "0.8g",
       "Azucares": "0.8g",
       "Proteinas": "0.5g",
-      "Sal": "0.05g",
-      "Valor energetico": "743kcal"
+      "Sal": "1g",
+      "Valor energetico": "734kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
@@ -3675,18 +3683,18 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/huevos-leche-y-mantequilla/mantequilla-y-margarina/p/275561",
-    "titulo": "Margarina Tulipán 400 g",
+    "url": "https://www.dia.es/huevos-leche-y-mantequilla/mantequilla-y-margarina/p/275563",
+    "titulo": "Margarina con sal Tulipán 400 g",
     "valores_nutricionales_100_g": {
       "Grasas": "59g",
-      "Saturadas": "22g",
+      "Saturadas": "16g",
       "Hidratos de carbono": "0.5g",
       "Azucares": "0.5g",
       "Proteinas": "0.5g",
-      "Sal": "0.3g",
-      "Valor energetico": "531kcal"
+      "Sal": "0.9g",
+      "Valor energetico": "530kcal"
     },
-    "descripcion": "Tulipán original, el de toda la vida con un sabor óptimo. Úsalo para untar una rebanada de pan, cocinar tus platos favoritos o preparar deliciosos bizcochos. 100% ingredientes naturales, sin Aceite de Palma y con Vitaminas A,D y E",
+    "descripcion": "Tulipan con sal, sabor único y 100% ingredientes naturales. Sin aceite de palma.",
     "categorias": [
       "lacteos"
     ],
@@ -3975,47 +3983,47 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/croquetas-y-rebozados/p/304789",
-    "titulo": "Croquetas de pollo Dia Al Punto 400 g",
+    "url": "https://www.dia.es/congelados/croquetas-y-rebozados/p/305216",
+    "titulo": "Nuggets de pollo Dia Al Punto 400 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "8.8g",
-      "Saturadas": "2.9g",
-      "Hidratos de carbono": "22.7g",
-      "Azucares": "5.8g",
-      "Proteinas": "7.1g",
-      "Sal": "1.08g",
-      "Valor energetico": "203kcal"
+      "Grasas": "14g",
+      "Saturadas": "1.8g",
+      "Hidratos de carbono": "13g",
+      "Azucares": "0.8g",
+      "Proteinas": "11g",
+      "Sal": "0.94g",
+      "Valor energetico": "225kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "congelados"
     ],
-    "precio_total": 1.69,
-    "precio_por_cantidad": 4.23,
+    "precio_total": 2.99,
+    "precio_por_cantidad": 7.48,
     "peso_volumen": "400 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/croquetas-y-rebozados/p/294202",
-    "titulo": "Palitos de mozzarella  Dia Al Punto 300 g",
+    "url": "https://www.dia.es/congelados/croquetas-y-rebozados/p/43657",
+    "titulo": "San jacobo Dia Al Punto 320 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "17g",
-      "Saturadas": "7.3g",
-      "Hidratos de carbono": "22g",
-      "Azucares": "1.8g",
-      "Proteinas": "13g",
-      "Sal": "1.6g",
-      "Valor energetico": "296kcal"
+      "Grasas": "3.3g",
+      "Saturadas": "1g",
+      "Hidratos de carbono": "26.6g",
+      "Azucares": "1.2g",
+      "Proteinas": "7.6g",
+      "Sal": "2.19g",
+      "Valor energetico": "181kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "congelados"
     ],
-    "precio_total": 2.59,
-    "precio_por_cantidad": 8.63,
-    "peso_volumen": "300 g",
+    "precio_total": 1.25,
+    "precio_por_cantidad": 3.91,
+    "peso_volumen": "320 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -4044,6 +4052,29 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/301911",
+    "titulo": "Preparado para fideuá y arroces sin cáscara Dia Mari Marinera 450 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.5g",
+      "Saturadas": "0.2g",
+      "Hidratos de carbono": "1.2g",
+      "Azucares": "0.2g",
+      "Proteinas": "17g",
+      "Sal": "0.45g",
+      "Valor energetico": "95kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "congelados"
+    ],
+    "precio_total": 3.79,
+    "precio_por_cantidad": 8.42,
+    "peso_volumen": "450 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/congelados/pescado-y-marisco/p/17384",
     "titulo": "Filetes de merluza Argentina sin piel Dia Mari Marinera 400 g",
     "valores_nutricionales_100_g": {
@@ -4067,47 +4098,47 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/129357",
-    "titulo": "Almeja del pacífico Dia Mari Marinera 450 g",
+    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/72170",
+    "titulo": "Filetes de merluza del cabo sin piel MSC Dia Mari Marinera 600 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "0.8g",
-      "Saturadas": "0.2g",
-      "Hidratos de carbono": "5.2g",
-      "Azucares": "0.1g",
-      "Proteinas": "10.9g",
-      "Sal": "0.81g",
-      "Valor energetico": "71kcal"
+      "Grasas": "1.1g",
+      "Saturadas": "0.3g",
+      "Hidratos de carbono": "0g",
+      "Azucares": "0g",
+      "Proteinas": "16g",
+      "Sal": "0.42g",
+      "Valor energetico": "74kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "congelados"
     ],
-    "precio_total": 1.69,
-    "precio_por_cantidad": 3.76,
-    "peso_volumen": "450 g",
+    "precio_total": 5.89,
+    "precio_por_cantidad": 9.82,
+    "peso_volumen": "600 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/301911",
-    "titulo": "Preparado para fideuá y arroces sin cáscara Dia Mari Marinera 450 g",
+    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/298229",
+    "titulo": "Dorada ASC Dia Mari Marinera 180 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "2.5g",
-      "Saturadas": "0.2g",
-      "Hidratos de carbono": "1.2g",
-      "Azucares": "0.2g",
-      "Proteinas": "17g",
-      "Sal": "0.45g",
-      "Valor energetico": "95kcal"
+      "Grasas": "10.1g",
+      "Saturadas": "2g",
+      "Hidratos de carbono": "0g",
+      "Azucares": "0g",
+      "Proteinas": "18.8g",
+      "Sal": "0.13g",
+      "Valor energetico": "166kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "congelados"
     ],
-    "precio_total": 3.79,
-    "precio_por_cantidad": 8.42,
-    "peso_volumen": "450 g",
+    "precio_total": 4.79,
+    "precio_por_cantidad": 21.29,
+    "peso_volumen": "180 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -4182,6 +4213,29 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/congelados/verduras-y-patatas/p/262861",
+    "titulo": "Patatas corte clásico Dia Patatas Unidas 1 Kg",
+    "valores_nutricionales_100_g": {
+      "Grasas": "3.5g",
+      "Saturadas": "0.4g",
+      "Hidratos de carbono": "23g",
+      "Azucares": "0.5g",
+      "Proteinas": "2.5g",
+      "Sal": "0.1g",
+      "Valor energetico": "139kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "congelados"
+    ],
+    "precio_total": 1.85,
+    "precio_por_cantidad": 1.85,
+    "peso_volumen": "1 kg",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/congelados/verduras-y-patatas/p/267132",
     "titulo": "Salteado de verduras Dia Al Punto 400 g",
     "valores_nutricionales_100_g": {
@@ -4201,30 +4255,6 @@
     "precio_total": 0.99,
     "precio_por_cantidad": 2.48,
     "peso_volumen": "400 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/congelados/verduras-y-patatas/p/253954",
-    "titulo": "Ajo troceado Dia Vegecampo 150 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.3g",
-      "Saturadas": "0.1g",
-      "Hidratos de carbono": "4.6g",
-      "Azucares": "2.4g",
-      "Fibra alimentaria": "3g",
-      "Proteinas": "2.1g",
-      "Sal": "0.95g",
-      "Valor energetico": "26kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "congelados"
-    ],
-    "precio_total": 0.99,
-    "precio_por_cantidad": 6.6,
-    "peso_volumen": "150 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -4277,6 +4307,29 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/congelados/arroces-y-pasta/p/303314",
+    "titulo": "Risotto con setas Dia Al Punto 330 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "6.2g",
+      "Saturadas": "3.3g",
+      "Hidratos de carbono": "15g",
+      "Azucares": "0.4g",
+      "Proteinas": "3.4g",
+      "Sal": "0.58g",
+      "Valor energetico": "131kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "congelados"
+    ],
+    "precio_total": 1.89,
+    "precio_por_cantidad": 5.73,
+    "peso_volumen": "330 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/congelados/arroces-y-pasta/p/275223",
     "titulo": "Lasaña boloñesa Dia Al Punto 300 g",
     "valores_nutricionales_100_g": {
@@ -4300,46 +4353,23 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/arroces-y-pasta/p/275225",
-    "titulo": "Canelones de carne Dia Al Punto 300 g",
+    "url": "https://www.dia.es/congelados/arroces-y-pasta/p/303311",
+    "titulo": "Arroz de marisco Dia Al Punto 330 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "4.8g",
-      "Saturadas": "1.7g",
-      "Hidratos de carbono": "13.8g",
-      "Azucares": "2g",
-      "Proteinas": "8.9g",
-      "Sal": "0.65g",
-      "Valor energetico": "135kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "congelados"
-    ],
-    "precio_total": 1.59,
-    "precio_por_cantidad": 5.3,
-    "peso_volumen": "300 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/congelados/arroces-y-pasta/p/303314",
-    "titulo": "Risotto con setas Dia Al Punto 330 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "6.2g",
-      "Saturadas": "3.3g",
-      "Hidratos de carbono": "15g",
+      "Grasas": "1.3g",
+      "Saturadas": "0.2g",
+      "Hidratos de carbono": "14g",
       "Azucares": "0.4g",
-      "Proteinas": "3.4g",
-      "Sal": "0.58g",
-      "Valor energetico": "131kcal"
+      "Proteinas": "3.8g",
+      "Sal": "0.46g",
+      "Valor energetico": "86kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "congelados"
     ],
-    "precio_total": 1.89,
-    "precio_por_cantidad": 5.73,
+    "precio_total": 1.99,
+    "precio_por_cantidad": 6.03,
     "peso_volumen": "330 g",
     "alergenos": [],
     "origen": "dia",
@@ -4384,29 +4414,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271062",
-    "titulo": "Tarrina de helado choco brownie con salsa chocolate Dia Temptation 350 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "9.9g",
-      "Saturadas": "6.4g",
-      "Hidratos de carbono": "32.7g",
-      "Azucares": "30g",
-      "Proteinas": "3.7g",
-      "Sal": "0.23g",
-      "Valor energetico": "238kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "congelados"
-    ],
-    "precio_total": 2.99,
-    "precio_por_cantidad": 8.54,
-    "peso_volumen": "350 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/congelados/helados-y-hielo/p/141678",
     "titulo": "Helado bombón crocante Dia Temptation 6 x 63 g",
     "valores_nutricionales_100_g": {
@@ -4430,29 +4437,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/helados-y-hielo/p/304895",
-    "titulo": "Tarrina de helado de cacahuete alto en proteínas Dia Temptation 350 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "11.4g",
-      "Saturadas": "3.7g",
-      "Hidratos de carbono": "19g",
-      "Azucares": "5.7g",
-      "Proteinas": "10.4g",
-      "Sal": "0.39g",
-      "Valor energetico": "208kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "congelados"
-    ],
-    "precio_total": 2.89,
-    "precio_por_cantidad": 8.26,
-    "peso_volumen": "350 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/congelados/helados-y-hielo/p/304896",
     "titulo": "Tarrina de helado pistacho cheesecake Dia Temptation 350 g",
     "valores_nutricionales_100_g": {
@@ -4463,6 +4447,52 @@
       "Proteinas": "3.9g",
       "Sal": "0.4g",
       "Valor energetico": "300kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "congelados"
+    ],
+    "precio_total": 2.99,
+    "precio_por_cantidad": 8.54,
+    "peso_volumen": "350 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/309953",
+    "titulo": "Tarrina helado crunchy salted caramel y chocolate Dia Temptation 350 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12.5g",
+      "Saturadas": "8.5g",
+      "Hidratos de carbono": "30.7g",
+      "Azucares": "28.5g",
+      "Proteinas": "2.9g",
+      "Sal": "0.5g",
+      "Valor energetico": "248kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "congelados"
+    ],
+    "precio_total": 2.99,
+    "precio_por_cantidad": 8.54,
+    "peso_volumen": "350 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/congelados/helados-y-hielo/p/271062",
+    "titulo": "Tarrina de helado choco brownie con salsa chocolate Dia Temptation 350 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9.9g",
+      "Saturadas": "6.4g",
+      "Hidratos de carbono": "32.7g",
+      "Azucares": "30g",
+      "Proteinas": "3.7g",
+      "Sal": "0.23g",
+      "Valor energetico": "238kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
@@ -4522,48 +4552,40 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/tartas-y-churros/p/308309",
-    "titulo": "Crepes Vici 500 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "7.9g",
-      "Saturadas": "0.6g",
-      "Hidratos de carbono": "24g",
-      "Azucares": "2.8g",
-      "Proteinas": "6.9g",
-      "Sal": "0.4g",
-      "Valor energetico": "195kcal"
-    },
-    "descripcion": "Valor nutricional",
+    "url": "https://www.dia.es/congelados/tartas-y-churros/p/309964",
+    "titulo": "Tarta cheesecake de galleta caramelizada congelada Sietem 350 g",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
     "categorias": [
       "congelados"
     ],
-    "precio_total": 3.19,
-    "precio_por_cantidad": 6.38,
-    "peso_volumen": "500 g",
+    "precio_total": 5.99,
+    "precio_por_cantidad": 17.11,
+    "peso_volumen": "350 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/tartas-y-churros/p/304288",
-    "titulo": "Tarta red velvet congelada San Martín 625 g",
+    "url": "https://www.dia.es/congelados/tartas-y-churros/p/218126",
+    "titulo": "Tarta bombón congelada San Martín 1 Kg",
     "valores_nutricionales_100_g": {
-      "Grasas": "21g",
-      "Saturadas": "7.9g",
-      "Hidratos de carbono": "44g",
-      "Azucares": "31g",
-      "Fibra alimentaria": "2.3g",
-      "Proteinas": "4.4g",
-      "Sal": "1g",
-      "Valor energetico": "388kcal"
+      "Grasas": "16g",
+      "Saturadas": "3.2g",
+      "Hidratos de carbono": "48g",
+      "Azucares": "25g",
+      "Fibra alimentaria": "2.4g",
+      "Proteinas": "3.9g",
+      "Sal": "0.85g",
+      "Valor energetico": "356kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "congelados"
     ],
-    "precio_total": 8.99,
-    "precio_por_cantidad": 14.38,
-    "peso_volumen": "625 g",
+    "precio_total": 10.95,
+    "precio_por_cantidad": 10.95,
+    "peso_volumen": "1 kg",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -4593,6 +4615,29 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/arroz-pastas-y-legumbres/arroz/p/151",
+    "titulo": "Arroz extra Dia Arrozona 1 Kg",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.7g",
+      "Saturadas": "0.1g",
+      "Hidratos de carbono": "78g",
+      "Azucares": "0g",
+      "Proteinas": "6.8g",
+      "Sal": "0.01g",
+      "Valor energetico": "348kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "alimentacion"
+    ],
+    "precio_total": 1.3,
+    "precio_por_cantidad": 1.0,
+    "peso_volumen": "1 kg",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/arroz-pastas-y-legumbres/arroz/p/5873",
     "titulo": "Arroz largo Dia Arrozona 1 Kg",
     "valores_nutricionales_100_g": {
@@ -4610,29 +4655,6 @@
     ],
     "precio_total": 1.25,
     "precio_por_cantidad": 1.25,
-    "peso_volumen": "1 kg",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/arroz-pastas-y-legumbres/arroz/p/151",
-    "titulo": "Arroz extra Dia Arrozona 1 Kg",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.7g",
-      "Saturadas": "0.1g",
-      "Hidratos de carbono": "78g",
-      "Azucares": "0g",
-      "Proteinas": "6.8g",
-      "Sal": "0.01g",
-      "Valor energetico": "348kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "alimentacion"
-    ],
-    "precio_total": 1.3,
-    "precio_por_cantidad": 1.3,
     "peso_volumen": "1 kg",
     "alergenos": [],
     "origen": "dia",
@@ -4702,7 +4724,7 @@
       "alimentacion"
     ],
     "precio_total": 1.15,
-    "precio_por_cantidad": 4.6,
+    "precio_por_cantidad": 4.0,
     "peso_volumen": "125 g",
     "alergenos": [],
     "origen": "dia",
@@ -4756,8 +4778,8 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/arroz-pastas-y-legumbres/fideos/p/519",
-    "titulo": "Sopa maravilla Dia Al Diante 500 g",
+    "url": "https://www.dia.es/arroz-pastas-y-legumbres/fideos/p/6265",
+    "titulo": "Fideuá Dia Al Diante 500 g",
     "valores_nutricionales_100_g": {
       "Grasas": "1.5g",
       "Saturadas": "0.3g",
@@ -4780,8 +4802,8 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/arroz-pastas-y-legumbres/fideos/p/6265",
-    "titulo": "Fideuá Dia Al Diante 500 g",
+    "url": "https://www.dia.es/arroz-pastas-y-legumbres/fideos/p/519",
+    "titulo": "Sopa maravilla Dia Al Diante 500 g",
     "valores_nutricionales_100_g": {
       "Grasas": "1.5g",
       "Saturadas": "0.3g",
@@ -4947,6 +4969,29 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/arroz-pastas-y-legumbres/pastas-rellenas/p/304384",
+    "titulo": "Gnocchi de patata Dia Selección Mundial 500 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.4g",
+      "Saturadas": "0.1g",
+      "Hidratos de carbono": "32.6g",
+      "Azucares": "0.1g",
+      "Proteinas": "5.2g",
+      "Sal": "1.4g",
+      "Valor energetico": "156kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "alimentacion"
+    ],
+    "precio_total": 1.0,
+    "precio_por_cantidad": 2.0,
+    "peso_volumen": "500 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/arroz-pastas-y-legumbres/pastas-rellenas/p/306663",
     "titulo": "Pasta fresca Tortello rellena de carne Dia Selección Mundial 250 g",
     "valores_nutricionales_100_g": {
@@ -4966,29 +5011,6 @@
     "precio_total": 1.89,
     "precio_por_cantidad": 7.56,
     "peso_volumen": "250 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/arroz-pastas-y-legumbres/pastas-rellenas/p/304384",
-    "titulo": "Gnocchi de patata Dia Selección Mundial 500 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.4g",
-      "Saturadas": "0.1g",
-      "Hidratos de carbono": "32.6g",
-      "Azucares": "0.1g",
-      "Proteinas": "5.2g",
-      "Sal": "1.4g",
-      "Valor energetico": "156kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "alimentacion"
-    ],
-    "precio_total": 1.1,
-    "precio_por_cantidad": 2.2,
-    "peso_volumen": "500 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -5018,29 +5040,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-internacional/p/140744",
-    "titulo": "Volantinas con queso Dia Al Punto 145 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "8.5g",
-      "Saturadas": "2.4g",
-      "Hidratos de carbono": "65g",
-      "Azucares": "9.6g",
-      "Proteinas": "13.6g",
-      "Sal": "3.04g",
-      "Valor energetico": "396kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "alimentacion"
-    ],
-    "precio_total": 1.25,
-    "precio_por_cantidad": 8.62,
-    "peso_volumen": "145 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/arroz-pastas-y-legumbres/pastas-rellenas/p/306667",
     "titulo": "Pasta fresca girasoli de burrata y pistacho Dia Selección Mundial 250 g",
     "valores_nutricionales_100_g": {
@@ -5059,6 +5058,30 @@
     ],
     "precio_total": 2.79,
     "precio_por_cantidad": 11.16,
+    "peso_volumen": "250 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/arroz-pastas-y-legumbres/pastas-rellenas/p/306665",
+    "titulo": "Pasta fresca Tortello rellena de prosciutto Dia Selección Mundial 250 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "11.6g",
+      "Saturadas": "5.2g",
+      "Hidratos de carbono": "34g",
+      "Azucares": "2.3g",
+      "Fibra alimentaria": "3.3g",
+      "Proteinas": "14.8g",
+      "Sal": "1.29g",
+      "Valor energetico": "306kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "alimentacion"
+    ],
+    "precio_total": 1.89,
+    "precio_por_cantidad": 7.56,
     "peso_volumen": "250 g",
     "alergenos": [],
     "origen": "dia",
@@ -5089,29 +5112,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/arroces-y-pasta/p/275225",
-    "titulo": "Canelones de carne Dia Al Punto 300 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "4.8g",
-      "Saturadas": "1.7g",
-      "Hidratos de carbono": "13.8g",
-      "Azucares": "2g",
-      "Proteinas": "8.9g",
-      "Sal": "0.65g",
-      "Valor energetico": "135kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "alimentacion"
-    ],
-    "precio_total": 1.59,
-    "precio_por_cantidad": 5.3,
-    "peso_volumen": "300 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/congelados/arroces-y-pasta/p/275223",
     "titulo": "Lasaña boloñesa Dia Al Punto 300 g",
     "valores_nutricionales_100_g": {
@@ -5129,6 +5129,29 @@
     ],
     "precio_total": 1.58,
     "precio_por_cantidad": 5.27,
+    "peso_volumen": "300 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/congelados/arroces-y-pasta/p/275225",
+    "titulo": "Canelones de carne Dia Al Punto 300 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "4.8g",
+      "Saturadas": "1.7g",
+      "Hidratos de carbono": "13.8g",
+      "Azucares": "2g",
+      "Proteinas": "8.9g",
+      "Sal": "0.65g",
+      "Valor energetico": "135kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "alimentacion"
+    ],
+    "precio_total": 1.59,
+    "precio_por_cantidad": 5.3,
     "peso_volumen": "300 g",
     "alergenos": [],
     "origen": "dia",
@@ -5250,24 +5273,24 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/aceites-salsas-y-especias/salsas-de-tomate-y-pasta/p/285506",
-    "titulo": "Pesto Dia Al Diante 185 g",
+    "url": "https://www.dia.es/aceites-salsas-y-especias/salsas-de-tomate-y-pasta/p/10677",
+    "titulo": "Tomate frito Dia Vegecampo 550 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "47.4g",
-      "Saturadas": "5.2g",
-      "Hidratos de carbono": "3.4g",
-      "Azucares": "1.8g",
-      "Proteinas": "4.8g",
-      "Sal": "1.72g",
-      "Valor energetico": "462kcal"
+      "Grasas": "3.3g",
+      "Saturadas": "0.4g",
+      "Hidratos de carbono": "9.3g",
+      "Azucares": "6.9g",
+      "Proteinas": "1.1g",
+      "Sal": "0.96g",
+      "Valor energetico": "72kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "alimentacion"
     ],
-    "precio_total": 1.95,
-    "precio_por_cantidad": 10.54,
-    "peso_volumen": "185 g",
+    "precio_total": 0.89,
+    "precio_por_cantidad": 1.62,
+    "peso_volumen": "550 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -5366,47 +5389,72 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/arroz-pastas-y-legumbres/noodles/p/189076",
-    "titulo": "Fideos de arroz vermicelli Tiger Khan 250 g",
+    "url": "https://www.dia.es/arroz-pastas-y-legumbres/noodles/p/308834",
+    "titulo": "Noodles pollo Gallina Blanca Yatekomo 79 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "1g",
-      "Saturadas": "0.4g",
-      "Hidratos de carbono": "75g",
-      "Azucares": "0g",
-      "Proteinas": "6.9g",
-      "Sal": "0.02g",
-      "Valor energetico": "340kcal"
-    },
-    "descripcion": "100% Asia",
-    "categorias": [
-      "alimentacion"
-    ],
-    "precio_total": 2.35,
-    "precio_por_cantidad": 9.4,
-    "peso_volumen": "250 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/arroz-pastas-y-legumbres/noodles/p/218534",
-    "titulo": "Noodles orientales sabor verduras Dia Al Punto 65 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "20g",
-      "Saturadas": "2.5g",
-      "Hidratos de carbono": "60g",
-      "Azucares": "2.5g",
-      "Proteinas": "8.6g",
-      "Sal": "6.3g",
-      "Valor energetico": "463kcal"
+      "Grasas": "5.9g",
+      "Saturadas": "2.8g",
+      "Hidratos de carbono": "23g",
+      "Azucares": "0.5g",
+      "Fibra alimentaria": "0.8g",
+      "Proteinas": "3.7g",
+      "Sal": "1.3g",
+      "Valor energetico": "162kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "alimentacion"
     ],
-    "precio_total": 0.9,
-    "precio_por_cantidad": 13.85,
-    "peso_volumen": "65 g",
+    "precio_total": 1.19,
+    "precio_por_cantidad": 15.06,
+    "peso_volumen": "79 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/arroz-pastas-y-legumbres/noodles/p/89547",
+    "titulo": "Noodles sabor a curry Maggi 71 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "17g",
+      "Saturadas": "1.3g",
+      "Hidratos de carbono": "63.8g",
+      "Azucares": "1.3g",
+      "Fibra alimentaria": "2.7g",
+      "Proteinas": "9.4g",
+      "Sal": "3.1g",
+      "Valor energetico": "451kcal"
+    },
+    "descripcion": "Con Pasta Oriental de MAGGI FUSIAN prepararás unos auténticos noodles asiáticos de una manera muy fácil y rápida en tan solo 3 minutos. Los noodles Pasta Oriental Curry son unos deliciosos fideos asiáticos, SIN ACEITE DE PALMA. Se pueden preparar al fuego o al microondas añadiendo 200ml de agua en un recipiente con el contenido de la bolsa y cocinar 3 minutos. Disfruta de la comida más popular de Asia de una forma práctica y rápida.",
+    "categorias": [
+      "alimentacion"
+    ],
+    "precio_total": 1.08,
+    "precio_por_cantidad": 15.21,
+    "peso_volumen": "71 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/arroz-pastas-y-legumbres/macarrones-espaguetis-y-pastas-secas/p/277987",
+    "titulo": "Hélices 100% de lenteja roja Gallo 250 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.5g",
+      "Saturadas": "0.4g",
+      "Hidratos de carbono": "49g",
+      "Azucares": "4.6g",
+      "Proteinas": "26g",
+      "Sal": "0.02g",
+      "Valor energetico": "347kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "alimentacion"
+    ],
+    "precio_total": 1.99,
+    "precio_por_cantidad": 7.96,
+    "peso_volumen": "250 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -5436,47 +5484,25 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/arroz-pastas-y-legumbres/macarrones-espaguetis-y-pastas-secas/p/303750",
-    "titulo": "Macarrones rayados sin gluten Dia Al Diante 500 g",
+    "url": "https://www.dia.es/arroz-pastas-y-legumbres/macarrones-espaguetis-y-pastas-secas/p/309984",
+    "titulo": "Hélices con tomate y espinacas sin gluten Gallo 450 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "1.2g",
-      "Saturadas": "0.3g",
-      "Hidratos de carbono": "83g",
+      "Grasas": "1.8g",
+      "Saturadas": "1.1g",
+      "Hidratos de carbono": "79g",
       "Azucares": "0.8g",
-      "Proteinas": "5.5g",
-      "Sal": "0.03g",
-      "Valor energetico": "364kcal"
+      "Fibra alimentaria": "2.5g",
+      "Proteinas": "6.7g",
+      "Sal": "0.17g",
+      "Valor energetico": "366kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "alimentacion"
     ],
-    "precio_total": 1.95,
-    "precio_por_cantidad": 3.9,
-    "peso_volumen": "500 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/arroz-pastas-y-legumbres/macarrones-espaguetis-y-pastas-secas/p/277987",
-    "titulo": "Hélices 100% de lenteja roja Gallo 250 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "2.5g",
-      "Saturadas": "0.4g",
-      "Hidratos de carbono": "49g",
-      "Azucares": "4.6g",
-      "Proteinas": "26g",
-      "Sal": "0.02g",
-      "Valor energetico": "347kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "alimentacion"
-    ],
-    "precio_total": 1.99,
-    "precio_por_cantidad": 7.96,
-    "peso_volumen": "250 g",
+    "precio_total": 2.49,
+    "precio_por_cantidad": 5.53,
+    "peso_volumen": "450 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -5552,24 +5578,24 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/arroz-pastas-y-legumbres/garbanzos-y-alubias/p/210523",
-    "titulo": "Alubias rojas cocidas Dia Vegecampo 400 g",
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-tradicional/p/47840",
+    "titulo": "Fabada asturiana Dia Al Punto 435 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "0.7g",
-      "Saturadas": "0.2g",
-      "Hidratos de carbono": "10g",
-      "Azucares": "0.6g",
-      "Proteinas": "6.4g",
-      "Sal": "0.6g",
-      "Valor energetico": "83kcal"
+      "Grasas": "8.5g",
+      "Saturadas": "2.6g",
+      "Hidratos de carbono": "11g",
+      "Azucares": "1g",
+      "Proteinas": "6g",
+      "Sal": "0.9g",
+      "Valor energetico": "150kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "alimentacion"
     ],
-    "precio_total": 1.2,
-    "precio_por_cantidad": 3.0,
-    "peso_volumen": "400 g",
+    "precio_total": 1.49,
+    "precio_por_cantidad": 2.3,
+    "peso_volumen": "435 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -5598,7 +5624,7 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/platos-preparados-y-pizzas/platos-precocinados/p/49694",
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-tradicional/p/49694",
     "titulo": "Cocido madrileño Dia Al Punto 440 g",
     "valores_nutricionales_100_g": {
       "Grasas": "7.1g",
@@ -5689,7 +5715,7 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/platos-preparados-y-pizzas/platos-precocinados/p/27933",
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-tradicional/p/27933",
     "titulo": "Lentejas con chorizo Dia Al Punto 430 g",
     "valores_nutricionales_100_g": {
       "Grasas": "3.2g",
@@ -5705,14 +5731,14 @@
       "alimentacion"
     ],
     "precio_total": 1.35,
-    "precio_por_cantidad": 3.14,
+    "precio_por_cantidad": 2.33,
     "peso_volumen": "430 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/platos-preparados-y-pizzas/platos-precocinados/p/155804",
+    "url": "https://www.dia.es/platos-preparados-y-pizzas/comida-tradicional/p/155804",
     "titulo": "Lentejas con verduras Dia Al Punto 430 g",
     "valores_nutricionales_100_g": {
       "Grasas": "1.8g",
@@ -5728,7 +5754,7 @@
       "alimentacion"
     ],
     "precio_total": 1.2,
-    "precio_por_cantidad": 2.79,
+    "precio_por_cantidad": 2.33,
     "peso_volumen": "430 g",
     "alergenos": [],
     "origen": "dia",
@@ -5782,46 +5808,23 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/pescados-y-mariscos/pescados-y-mariscos-frescos/p/269628",
-    "titulo": "Escalopines de salmón Selección de Dia 420 g aprox.",
+    "url": "https://www.dia.es/pescados-y-mariscos/pescados-y-mariscos-frescos/p/269304",
+    "titulo": "Pata de pulpo cocido Dia Mari Marinera bandeja 250 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "16g",
-      "Saturadas": "3g",
+      "Grasas": "0.7g",
+      "Saturadas": "0.2g",
       "Hidratos de carbono": "0g",
       "Azucares": "0g",
-      "Proteinas": "20g",
-      "Sal": "0.11g",
-      "Valor energetico": "224kcal"
+      "Proteinas": "23g",
+      "Sal": "0.73g",
+      "Valor energetico": "100kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "platos_preparados"
     ],
-    "precio_total": 11.13,
-    "precio_por_cantidad": 26.5,
-    "peso_volumen": "420 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/pescados-y-mariscos/ahumados-y-salazones/p/264608",
-    "titulo": "Bacalao desmigado desalado MSC Selección de Dia bandeja 250 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "1g",
-      "Saturadas": "0.1g",
-      "Hidratos de carbono": "0g",
-      "Azucares": "0g",
-      "Proteinas": "11.3g",
-      "Sal": "1.5g",
-      "Valor energetico": "62kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "platos_preparados"
-    ],
-    "precio_total": 4.99,
-    "precio_por_cantidad": 19.96,
+    "precio_total": 9.99,
+    "precio_por_cantidad": 39.96,
     "peso_volumen": "250 g",
     "alergenos": [],
     "origen": "dia",
@@ -5869,6 +5872,29 @@
     "precio_total": 7.12,
     "precio_por_cantidad": 23.72,
     "peso_volumen": "300 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/pescados-y-mariscos/pescados-y-mariscos-frescos/p/269628",
+    "titulo": "Escalopines de salmón Selección de Dia 420 g aprox.",
+    "valores_nutricionales_100_g": {
+      "Grasas": "16g",
+      "Saturadas": "3g",
+      "Hidratos de carbono": "0g",
+      "Azucares": "0g",
+      "Proteinas": "20g",
+      "Sal": "0.11g",
+      "Valor energetico": "224kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 11.13,
+    "precio_por_cantidad": 26.5,
+    "peso_volumen": "420 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -5958,16 +5984,24 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/300998",
-    "titulo": "Porciones de merluza del cabo MSC Dia Mari Marinera caja 400 g",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
+    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/69088",
+    "titulo": "Corazones de merluza Pescanova 500 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.5g",
+      "Saturadas": "0.3g",
+      "Hidratos de carbono": "0g",
+      "Azucares": "0g",
+      "Proteinas": "16g",
+      "Sal": "0.6g",
+      "Valor energetico": "77kcal"
+    },
+    "descripcion": "Corazones de Merluza del Cabo Sin Piel Ultracongelados",
     "categorias": [
       "platos_preparados"
     ],
-    "precio_total": 3.89,
-    "precio_por_cantidad": 9.73,
-    "peso_volumen": "400 g",
+    "precio_total": 6.99,
+    "precio_por_cantidad": 11.18,
+    "peso_volumen": "500 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -5996,16 +6030,24 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/307738",
-    "titulo": "Filetes de gallo sin piel Vento 500 g",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
+    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/31437",
+    "titulo": "Filetes de panga ASC 480 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "0.9g",
+      "Saturadas": "0.3g",
+      "Hidratos de carbono": "3g",
+      "Azucares": "0.5g",
+      "Proteinas": "12.1g",
+      "Sal": "0.82g",
+      "Valor energetico": "57kcal"
+    },
+    "descripcion": "Valor nutricional",
     "categorias": [
       "platos_preparados"
     ],
-    "precio_total": 5.79,
-    "precio_por_cantidad": 11.58,
-    "peso_volumen": "500 g",
+    "precio_total": 2.59,
+    "precio_por_cantidad": 5.4,
+    "peso_volumen": "480 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -6034,47 +6076,39 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/274389",
-    "titulo": "Salmón salvaje MSC Dia Mari Marinera 360 g",
+    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/298229",
+    "titulo": "Dorada ASC Dia Mari Marinera 180 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "12g",
-      "Saturadas": "2.6g",
+      "Grasas": "10.1g",
+      "Saturadas": "2g",
       "Hidratos de carbono": "0g",
       "Azucares": "0g",
-      "Proteinas": "20.6g",
-      "Sal": "0g",
-      "Valor energetico": "181kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "platos_preparados"
-    ],
-    "precio_total": 6.79,
-    "precio_por_cantidad": 18.86,
-    "peso_volumen": "360 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/298228",
-    "titulo": "Lubina ASC Dia Mari Marinera 180 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "7.4g",
-      "Saturadas": "1.7g",
-      "Hidratos de carbono": "0g",
-      "Azucares": "0g",
-      "Proteinas": "18.3g",
-      "Sal": "1.31g",
-      "Valor energetico": "141kcal"
+      "Proteinas": "18.8g",
+      "Sal": "0.13g",
+      "Valor energetico": "166kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "platos_preparados"
     ],
     "precio_total": 4.79,
-    "precio_por_cantidad": 26.61,
+    "precio_por_cantidad": 21.29,
     "peso_volumen": "180 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/307738",
+    "titulo": "Filetes de gallo sin piel Vento 500 g",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 5.79,
+    "precio_por_cantidad": 11.58,
+    "peso_volumen": "500 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -6126,6 +6160,29 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/263661",
+    "titulo": "Puntilla Aligator 450 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2g",
+      "Saturadas": "0g",
+      "Hidratos de carbono": "0g",
+      "Azucares": "0g",
+      "Proteinas": "14g",
+      "Sal": "0g",
+      "Valor energetico": "76kcal"
+    },
+    "descripcion": "Puntilla sin pluma 450g",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 2.79,
+    "precio_por_cantidad": 6.2,
+    "peso_volumen": "450 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/congelados/pescado-y-marisco/p/293705",
     "titulo": "Sepia faraónica Dia Mari Marinera 400 g",
     "valores_nutricionales_100_g": {
@@ -6172,29 +6229,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/286538",
-    "titulo": "Anillas de pota Dia Mari Marinera 350 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.4g",
-      "Saturadas": "0.1g",
-      "Hidratos de carbono": "0.5g",
-      "Azucares": "0g",
-      "Proteinas": "9.5g",
-      "Sal": "0.89g",
-      "Valor energetico": "44kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "platos_preparados"
-    ],
-    "precio_total": 5.59,
-    "precio_por_cantidad": 15.97,
-    "peso_volumen": "350 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/congelados/croquetas-y-rebozados/p/19199",
     "titulo": "Muslitos de mar MSC Dia Mari Marinera 250 g",
     "valores_nutricionales_100_g": {
@@ -6218,29 +6252,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/croquetas-y-rebozados/p/41097",
-    "titulo": "Caprichos del mar Dia Mari Marinera 400 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "5.8g",
-      "Saturadas": "0.7g",
-      "Hidratos de carbono": "30g",
-      "Azucares": "0.8g",
-      "Proteinas": "6.2g",
-      "Sal": "1.39g",
-      "Valor energetico": "203kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "platos_preparados"
-    ],
-    "precio_total": 1.99,
-    "precio_por_cantidad": 4.98,
-    "peso_volumen": "400 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/congelados/croquetas-y-rebozados/p/41098",
     "titulo": "Rabas empanadas Dia Mari Marinera 400 g",
     "valores_nutricionales_100_g": {
@@ -6258,6 +6269,29 @@
     ],
     "precio_total": 3.29,
     "precio_por_cantidad": 8.23,
+    "peso_volumen": "400 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/congelados/croquetas-y-rebozados/p/41097",
+    "titulo": "Caprichos del mar Dia Mari Marinera 400 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "5.8g",
+      "Saturadas": "0.7g",
+      "Hidratos de carbono": "30g",
+      "Azucares": "0.8g",
+      "Proteinas": "6.2g",
+      "Sal": "1.39g",
+      "Valor energetico": "203kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 1.99,
+    "precio_por_cantidad": 4.98,
     "peso_volumen": "400 g",
     "alergenos": [],
     "origen": "dia",
@@ -6325,8 +6359,8 @@
     "categorias": [
       "platos_preparados"
     ],
-    "precio_total": 1.69,
-    "precio_por_cantidad": 3.76,
+    "precio_total": 1.79,
+    "precio_por_cantidad": 3.98,
     "peso_volumen": "450 g",
     "alergenos": [],
     "origen": "dia",
@@ -6494,29 +6528,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/273235",
-    "titulo": "Gambón crudo Dia Mari Marinera 800 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.6g",
-      "Saturadas": "0.2g",
-      "Hidratos de carbono": "0g",
-      "Azucares": "0g",
-      "Proteinas": "19g",
-      "Sal": "0.64g",
-      "Valor energetico": "81kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "platos_preparados"
-    ],
-    "precio_total": 10.99,
-    "precio_por_cantidad": 13.74,
-    "peso_volumen": "800 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/congelados/pescado-y-marisco/p/269058",
     "titulo": "Gambas peladas y crudas grandes Dia Mari Marinera 350 g",
     "valores_nutricionales_100_g": {
@@ -6540,24 +6551,24 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/pescados-y-mariscos/ahumados-y-salazones/p/302187",
-    "titulo": "Salmón ahumado reducido en sal Dia Selección Mundial sobre 100 g",
+    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/273235",
+    "titulo": "Gambón crudo Dia Mari Marinera 800 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "16g",
-      "Saturadas": "2.5g",
-      "Hidratos de carbono": "0.5g",
-      "Azucares": "0.5g",
-      "Proteinas": "23g",
-      "Sal": "2g",
-      "Valor energetico": "237kcal"
+      "Grasas": "0.6g",
+      "Saturadas": "0.2g",
+      "Hidratos de carbono": "0g",
+      "Azucares": "0g",
+      "Proteinas": "19g",
+      "Sal": "0.64g",
+      "Valor energetico": "81kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "platos_preparados"
     ],
-    "precio_total": 3.99,
-    "precio_por_cantidad": 39.9,
-    "peso_volumen": "100 g",
+    "precio_total": 10.99,
+    "precio_por_cantidad": 13.74,
+    "peso_volumen": "800 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -6609,6 +6620,29 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/pescados-y-mariscos/ahumados-y-salazones/p/44404",
+    "titulo": "Salmón ahumado Noruego Dia Selección Mundial sobre 200 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "11.2g",
+      "Saturadas": "1.8g",
+      "Hidratos de carbono": "1.5g",
+      "Azucares": "1g",
+      "Proteinas": "24g",
+      "Sal": "2.5g",
+      "Valor energetico": "202kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 7.2,
+    "precio_por_cantidad": 36.0,
+    "peso_volumen": "200 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/pescados-y-mariscos/ahumados-y-salazones/p/293674",
     "titulo": "Filetes de anchoa en aceite de oliva Dia Mari Marinera pack 3 x 25 g",
     "valores_nutricionales_100_g": {
@@ -6632,24 +6666,47 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/pescados-y-mariscos/ahumados-y-salazones/p/267319",
-    "titulo": "Boquerones en vinagre MSC Dia Mari Marinera bandeja 80 g",
+    "url": "https://www.dia.es/pescados-y-mariscos/ahumados-y-salazones/p/233894",
+    "titulo": "Trucha ahumada Dia Mari Marinera bandeja 100 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "6.2g",
-      "Saturadas": "0.9g",
-      "Hidratos de carbono": "0.7g",
-      "Azucares": "0.1g",
-      "Proteinas": "22.1g",
-      "Sal": "2g",
-      "Valor energetico": "147kcal"
+      "Grasas": "11g",
+      "Saturadas": "2.4g",
+      "Hidratos de carbono": "0.8g",
+      "Azucares": "0.8g",
+      "Proteinas": "21g",
+      "Sal": "3.3g",
+      "Valor energetico": "189kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "platos_preparados"
     ],
-    "precio_total": 2.39,
-    "precio_por_cantidad": 29.88,
-    "peso_volumen": "80 g",
+    "precio_total": 3.69,
+    "precio_por_cantidad": 36.9,
+    "peso_volumen": "100 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/3374",
+    "titulo": "Palitos de surimi ultracongelados MSC Dia Mari Marinera 450 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.8g",
+      "Saturadas": "0.4g",
+      "Hidratos de carbono": "11g",
+      "Azucares": "1.7g",
+      "Proteinas": "8.4g",
+      "Sal": "1.8g",
+      "Valor energetico": "103kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "platos_preparados"
+    ],
+    "precio_total": 1.88,
+    "precio_por_cantidad": 4.18,
+    "peso_volumen": "450 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -6701,29 +6758,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/congelados/pescado-y-marisco/p/3374",
-    "titulo": "Palitos de surimi ultracongelados MSC Dia Mari Marinera 450 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "2.8g",
-      "Saturadas": "0.4g",
-      "Hidratos de carbono": "11g",
-      "Azucares": "1.7g",
-      "Proteinas": "8.4g",
-      "Sal": "1.8g",
-      "Valor energetico": "103kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "platos_preparados"
-    ],
-    "precio_total": 1.88,
-    "precio_por_cantidad": 4.18,
-    "peso_volumen": "450 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/congelados/pescado-y-marisco/p/263685",
     "titulo": "Sucedáneo de angulas con gambas congelado Dia Mari Marinera 250 g",
     "valores_nutricionales_100_g": {
@@ -6747,23 +6781,23 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/pescados-y-mariscos/surimi-y-otros-elaborados/p/264682",
-    "titulo": "Sucedáneo de angulas refrigerado MSC Dia Mari Marinera bandeja 200 g",
+    "url": "https://www.dia.es/pescados-y-mariscos/surimi-y-otros-elaborados/p/287250",
+    "titulo": "Sucedáneo de angulas con gambas refrigerado Dia Mari Marinera bandeja 200 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "11g",
-      "Saturadas": "1.5g",
-      "Hidratos de carbono": "8.2g",
-      "Azucares": "1.6g",
-      "Proteinas": "8.9g",
-      "Sal": "2.3g",
-      "Valor energetico": "171kcal"
+      "Grasas": "21g",
+      "Saturadas": "2.4g",
+      "Hidratos de carbono": "5.4g",
+      "Azucares": "1.1g",
+      "Proteinas": "7.7g",
+      "Sal": "1.9g",
+      "Valor energetico": "244kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "platos_preparados"
     ],
-    "precio_total": 2.79,
-    "precio_por_cantidad": 13.95,
+    "precio_total": 2.89,
+    "precio_por_cantidad": 14.45,
     "peso_volumen": "200 g",
     "alergenos": [],
     "origen": "dia",
@@ -6816,29 +6850,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/aceites-salsas-y-especias/aceites/p/49894",
-    "titulo": "Aceite refinado de girasol Diasol 5 L",
-    "valores_nutricionales_100_g": {
-      "Grasas": "91.8g",
-      "Saturadas": "10.1g",
-      "Hidratos de carbono": "0g",
-      "Azucares": "0g",
-      "Proteinas": "0g",
-      "Sal": "0g",
-      "Valor energetico": "826kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "bebidas"
-    ],
-    "precio_total": 8.45,
-    "precio_por_cantidad": 1.69,
-    "peso_volumen": "5 l",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/aceites-salsas-y-especias/aceites/p/104",
     "titulo": "Aceite de oliva suave Dia La Almazara del Olivar 1 L",
     "valores_nutricionales_100_g": {
@@ -6857,6 +6868,29 @@
     "precio_total": 3.85,
     "precio_por_cantidad": 3.85,
     "peso_volumen": "1 l",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/aceites-salsas-y-especias/aceites/p/49894",
+    "titulo": "Aceite refinado de girasol Diasol 5 L",
+    "valores_nutricionales_100_g": {
+      "Grasas": "91.8g",
+      "Saturadas": "10.1g",
+      "Hidratos de carbono": "0g",
+      "Azucares": "0g",
+      "Proteinas": "0g",
+      "Sal": "0g",
+      "Valor energetico": "826kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "bebidas"
+    ],
+    "precio_total": 8.45,
+    "precio_por_cantidad": 1.69,
+    "peso_volumen": "5 l",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -6885,21 +6919,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/aceites-salsas-y-especias/vinagres-y-alinos/p/422",
-    "titulo": "Vinagre de vino blanco Aliña tu Dia 1 L",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
-    "categorias": [
-      "bebidas"
-    ],
-    "precio_total": 0.65,
-    "precio_por_cantidad": 0.65,
-    "peso_volumen": "1 l",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/aceites-salsas-y-especias/vinagres-y-alinos/p/84060",
     "titulo": "Vinagre de manzana Aliña tu Dia 1 L",
     "valores_nutricionales_100_g": {
@@ -6912,6 +6931,21 @@
     ],
     "precio_total": 0.9,
     "precio_por_cantidad": 0.9,
+    "peso_volumen": "1 l",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/aceites-salsas-y-especias/vinagres-y-alinos/p/422",
+    "titulo": "Vinagre de vino blanco Aliña tu Dia 1 L",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "precio_total": 0.65,
+    "precio_por_cantidad": 0.65,
     "peso_volumen": "1 l",
     "alergenos": [],
     "origen": "dia",
@@ -6964,25 +6998,16 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/aceites-salsas-y-especias/vinagres-y-alinos/p/40166",
-    "titulo": "Aderezo de limón Aliña tu Dia 50 cl",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0g",
-      "Saturadas": "0g",
-      "Hidratos de carbono": "3.7g",
-      "Azucares": "0.5g",
-      "Fibra alimentaria": "7g",
-      "Proteinas": "0.1g",
-      "Sal": "0g",
-      "Valor energetico": "24kcal"
-    },
-    "descripcion": "Valor nutricional",
+    "url": "https://www.dia.es/aceites-salsas-y-especias/vinagres-y-alinos/p/273811",
+    "titulo": "Vinagre de jerez reserva D.O.P. Delicias de Dia 250 ml",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
     "categorias": [
       "bebidas"
     ],
-    "precio_total": 1.1,
-    "precio_por_cantidad": 2.2,
-    "peso_volumen": "50 cl",
+    "precio_total": 1.99,
+    "precio_por_cantidad": 7.96,
+    "peso_volumen": "250 ml",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -7020,6 +7045,21 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/aceites-salsas-y-especias/ajo-sal-y-pimienta/p/299147",
+    "titulo": "Pimienta negra molida Dia Vegecampo 65 g",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "precio_total": 1.19,
+    "precio_por_cantidad": 18.31,
+    "peso_volumen": "65 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/aceites-salsas-y-especias/ajo-sal-y-pimienta/p/19518",
     "titulo": "Sal yodada Dia Dia 1 Kg",
     "valores_nutricionales_100_g": {
@@ -7032,21 +7072,6 @@
     "precio_total": 0.45,
     "precio_por_cantidad": 0.45,
     "peso_volumen": "1 kg",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/aceites-salsas-y-especias/ajo-sal-y-pimienta/p/299147",
-    "titulo": "Pimienta negra molida Dia Vegecampo 65 g",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
-    "categorias": [
-      "bebidas"
-    ],
-    "precio_total": 1.19,
-    "precio_por_cantidad": 18.31,
-    "peso_volumen": "65 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -7082,21 +7107,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/299128",
-    "titulo": "Cebolla en polvo Dia Vegecampo 60 g",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
-    "categorias": [
-      "bebidas"
-    ],
-    "precio_total": 0.94,
-    "precio_por_cantidad": 15.67,
-    "peso_volumen": "60 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/299136",
     "titulo": "Perejil Dia Vegecampo 18 g",
     "valores_nutricionales_100_g": {},
@@ -7112,16 +7122,31 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/38750",
-    "titulo": "Hojas de laurel Dani 10 g",
+    "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/299128",
+    "titulo": "Cebolla en polvo Dia Vegecampo 60 g",
     "valores_nutricionales_100_g": {},
-    "descripcion": "Laurel Hoja DANI 10g",
+    "descripcion": "",
     "categorias": [
       "bebidas"
     ],
-    "precio_total": 0.89,
-    "precio_por_cantidad": 89.0,
-    "peso_volumen": "10 g",
+    "precio_total": 0.94,
+    "precio_por_cantidad": 15.67,
+    "peso_volumen": "60 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/aceites-salsas-y-especias/especias-y-hierbas/p/297208",
+    "titulo": "Pimentón dulce Dia Vegecampo 58 g",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "precio_total": 0.99,
+    "precio_por_cantidad": 17.07,
+    "peso_volumen": "58 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -7137,6 +7162,30 @@
     "precio_total": 0.95,
     "precio_por_cantidad": 11.18,
     "peso_volumen": "85 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/aceites-salsas-y-especias/sazonadores/p/117881",
+    "titulo": "Sazonador para pollo asado Maggi 34 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "4.2g",
+      "Saturadas": "0.6g",
+      "Hidratos de carbono": "53.7g",
+      "Azucares": "11.2g",
+      "Fibra alimentaria": "8.8g",
+      "Proteinas": "7.5g",
+      "Sal": "15.5g",
+      "Valor energetico": "301kcal"
+    },
+    "descripcion": "Con Jugoso al Horno de MAGGI prepararás una auténtica receta de pollo al horno con una selección de hierbas provenzales de manera fácil, práctica y sin ensuciar prácticamente nada. Esta receta contiene únicamente ingredientes naturales que conoces y utilizas en tu cocina: hortalizas, especias y plantas aromáticas. La receta de hierbas provenzales está elaborada con una exquisita combinación de especias tales como pimentón, cilantro, jengibre así como la mejor selección de plantas aromáticas como la albahaca, tomillo y romero.",
+    "categorias": [
+      "bebidas"
+    ],
+    "precio_total": 1.19,
+    "precio_por_cantidad": 35.0,
+    "peso_volumen": "34 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -7165,29 +7214,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/aceites-salsas-y-especias/sazonadores/p/307108",
-    "titulo": "Sazonador pollo Dia Vegecampo 110 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "3.8g",
-      "Saturadas": "2.2g",
-      "Hidratos de carbono": "13g",
-      "Azucares": "3.5g",
-      "Proteinas": "3.1g",
-      "Sal": "71.6g",
-      "Valor energetico": "107kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "bebidas"
-    ],
-    "precio_total": 1.99,
-    "precio_por_cantidad": 18.09,
-    "peso_volumen": "110 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/aceites-salsas-y-especias/sazonadores/p/307107",
     "titulo": "Sazonador patatas fritas Dia Vegecampo 65 g",
     "valores_nutricionales_100_g": {
@@ -7211,48 +7237,48 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/aceites-salsas-y-especias/sazonadores/p/117881",
-    "titulo": "Sazonador para pollo asado Maggi 34 g",
+    "url": "https://www.dia.es/aceites-salsas-y-especias/sazonadores/p/307108",
+    "titulo": "Sazonador pollo Dia Vegecampo 110 g",
     "valores_nutricionales_100_g": {
-      "Grasas": "4.2g",
-      "Saturadas": "0.6g",
-      "Hidratos de carbono": "53.7g",
-      "Azucares": "11.2g",
-      "Fibra alimentaria": "8.8g",
-      "Proteinas": "7.5g",
-      "Sal": "15.5g",
-      "Valor energetico": "301kcal"
-    },
-    "descripcion": "Con Jugoso al Horno de MAGGI prepararás una auténtica receta de pollo al horno con una selección de hierbas provenzales de manera fácil, práctica y sin ensuciar prácticamente nada. Esta receta contiene únicamente ingredientes naturales que conoces y utilizas en tu cocina: hortalizas, especias y plantas aromáticas. La receta de hierbas provenzales está elaborada con una exquisita combinación de especias tales como pimentón, cilantro, jengibre así como la mejor selección de plantas aromáticas como la albahaca, tomillo y romero.",
-    "categorias": [
-      "bebidas"
-    ],
-    "precio_total": 1.18,
-    "precio_por_cantidad": 34.71,
-    "peso_volumen": "34 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/aceites-salsas-y-especias/sazonadores/p/307106",
-    "titulo": "Sazonador barbacoa Dia Vegecampo 80 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "4.5g",
-      "Saturadas": "2.1g",
-      "Hidratos de carbono": "18g",
-      "Azucares": "7.1g",
-      "Proteinas": "3.8g",
-      "Sal": "57.8g",
-      "Valor energetico": "149kcal"
+      "Grasas": "3.8g",
+      "Saturadas": "2.2g",
+      "Hidratos de carbono": "13g",
+      "Azucares": "3.5g",
+      "Proteinas": "3.1g",
+      "Sal": "71.6g",
+      "Valor energetico": "107kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "bebidas"
     ],
     "precio_total": 1.99,
-    "precio_por_cantidad": 24.88,
-    "peso_volumen": "80 g",
+    "precio_por_cantidad": 18.09,
+    "peso_volumen": "110 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/aceites-salsas-y-especias/sazonadores/p/11964",
+    "titulo": "Sazonador para paellera con azafrán Carmencita 20 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "4.2g",
+      "Saturadas": "0.7g",
+      "Hidratos de carbono": "32.8g",
+      "Azucares": "20.9g",
+      "Fibra alimentaria": "13.6g",
+      "Proteinas": "11g",
+      "Sal": "29g",
+      "Valor energetico": "240kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "bebidas"
+    ],
+    "precio_total": 2.75,
+    "precio_por_cantidad": 137.5,
+    "peso_volumen": "20 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -7418,29 +7444,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/aceites-salsas-y-especias/salsas-especiales-y-picantes/p/129425",
-    "titulo": "Salsa césar Dia Salseo 300 ml",
-    "valores_nutricionales_100_g": {
-      "Grasas": "28.2g",
-      "Saturadas": "4.9g",
-      "Hidratos de carbono": "7.5g",
-      "Azucares": "4.7g",
-      "Proteinas": "2.9g",
-      "Sal": "2.54g",
-      "Valor energetico": "299kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "bebidas"
-    ],
-    "precio_total": 1.36,
-    "precio_por_cantidad": 3.4,
-    "peso_volumen": "300 ml",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/aceites-salsas-y-especias/salsas-especiales-y-picantes/p/222650",
     "titulo": "Salsa miel y mostaza Dia Salseo 310 g",
     "valores_nutricionales_100_g": {
@@ -7457,31 +7460,55 @@
       "bebidas"
     ],
     "precio_total": 1.32,
-    "precio_por_cantidad": 3.19,
+    "precio_por_cantidad": 4.26,
     "peso_volumen": "310 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/aceites-salsas-y-especias/salsas-especiales-y-picantes/p/300739",
-    "titulo": "Salsa mayo sriracha Dia Salseo 300 ml",
+    "url": "https://www.dia.es/aceites-salsas-y-especias/salsas-especiales-y-picantes/p/142034",
+    "titulo": "Salsa de yogur Dia Salseo 300 ml",
     "valores_nutricionales_100_g": {
-      "Grasas": "40.7g",
-      "Saturadas": "4.8g",
-      "Hidratos de carbono": "11.4g",
-      "Azucares": "8.6g",
-      "Proteinas": "0.8g",
-      "Sal": "1.8g",
-      "Valor energetico": "416kcal"
+      "Grasas": "21.2g",
+      "Saturadas": "2.8g",
+      "Hidratos de carbono": "9.8g",
+      "Azucares": "3.1g",
+      "Proteinas": "2.3g",
+      "Sal": "1.06g",
+      "Valor energetico": "243kcal"
     },
     "descripcion": "Valor nutricional",
     "categorias": [
       "bebidas"
     ],
-    "precio_total": 1.69,
-    "precio_por_cantidad": 4.23,
+    "precio_total": 1.16,
+    "precio_por_cantidad": 3.87,
     "peso_volumen": "300 ml",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/aceites-salsas-y-especias/salsas-especiales-y-picantes/p/79156",
+    "titulo": "Salsa burger Dia Salseo 320 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "12g",
+      "Saturadas": "1.4g",
+      "Hidratos de carbono": "19g",
+      "Azucares": "11g",
+      "Fibra alimentaria": "1g",
+      "Proteinas": "0.7g",
+      "Sal": "1.5g",
+      "Valor energetico": "190kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "bebidas"
+    ],
+    "precio_total": 1.5,
+    "precio_por_cantidad": 4.69,
+    "peso_volumen": "320 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -7579,6 +7606,44 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/aceites-salsas-y-especias/salsas-especiales-y-picantes/p/300739",
+    "titulo": "Salsa mayo sriracha Dia Salseo 300 ml",
+    "valores_nutricionales_100_g": {
+      "Grasas": "40.7g",
+      "Saturadas": "4.8g",
+      "Hidratos de carbono": "11.4g",
+      "Azucares": "8.6g",
+      "Proteinas": "0.8g",
+      "Sal": "1.8g",
+      "Valor energetico": "416kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "bebidas"
+    ],
+    "precio_total": 1.69,
+    "precio_por_cantidad": 5.63,
+    "peso_volumen": "300 ml",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/capsulas-compatibles-nespresso/p/273823",
+    "titulo": "Cápsulas de café extra intenso Dia Arom'arte 20 unidades",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "desayunos_dulces"
+    ],
+    "precio_total": 3.89,
+    "precio_por_cantidad": 0.19,
+    "peso_volumen": "",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/cafe-cacao-e-infusiones/capsulas-compatibles-nespresso/p/273821",
     "titulo": "Cápsulas de café intenso Dia Arom'arte 20 unidades",
     "valores_nutricionales_100_g": {},
@@ -7594,8 +7659,8 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/capsulas-compatibles-nespresso/p/273825",
-    "titulo": "Cápsulas de café descafeinado Dia Arom'arte 20 unidades",
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/capsulas-compatibles-nespresso/p/273824",
+    "titulo": "Cápsulas de café fortissimo Dia Arom'arte 20 unidades",
     "valores_nutricionales_100_g": {},
     "descripcion": "",
     "categorias": [
@@ -7609,8 +7674,8 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/capsulas-compatibles-nespresso/p/273823",
-    "titulo": "Cápsulas de café extra intenso Dia Arom'arte 20 unidades",
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/capsulas-compatibles-nespresso/p/273825",
+    "titulo": "Cápsulas de café descafeinado Dia Arom'arte 20 unidades",
     "valores_nutricionales_100_g": {},
     "descripcion": "",
     "categorias": [
@@ -7641,21 +7706,6 @@
     ],
     "precio_total": 2.39,
     "precio_por_cantidad": 0.24,
-    "peso_volumen": "",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/capsulas-compatibles-nespresso/p/273824",
-    "titulo": "Cápsulas de café fortissimo Dia Arom'arte 20 unidades",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
-    "categorias": [
-      "desayunos_dulces"
-    ],
-    "precio_total": 3.89,
-    "precio_por_cantidad": 0.19,
     "peso_volumen": "",
     "alergenos": [],
     "origen": "dia",
@@ -7700,6 +7750,30 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/capsulas-compatibles-dolce-gusto/p/255048",
+    "titulo": "Cápsulas de café con leche Dolce Gusto 30 unidades",
+    "valores_nutricionales_100_g": {
+      "Grasas": "22g",
+      "Saturadas": "12.5g",
+      "Hidratos de carbono": "38.3g",
+      "Azucares": "30g",
+      "Fibra alimentaria": "7.1g",
+      "Proteinas": "22.2g",
+      "Sal": "0.89g",
+      "Valor energetico": "459kcal"
+    },
+    "descripcion": "Disfruta de un café de calidad superior con las cápsulas NESCAFÉ® Dolce Gusto® Café con Leche. Estas cápsulas son perfectas para cualquier ocasión, ya sea para empezar el día con energía o para un descanso por la tarde. El café se combina perfectamente con la leche para crear una bebida suave y cremosa. Con NESCAFÉ® Dolce Gusto®, puedes disfrutar de la experiencia de un café de alta calidad en la comodidad de tu hogar. ¡Prepárate para saborear el verdadero sabor del café!",
+    "categorias": [
+      "desayunos_dulces"
+    ],
+    "precio_total": 8.55,
+    "precio_por_cantidad": 0.29,
+    "peso_volumen": "",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/cafe-cacao-e-infusiones/capsulas-compatibles-dolce-gusto/p/308675",
     "titulo": "Cápsulas de café lungo Dia Cafetería 16 unidades",
     "valores_nutricionales_100_g": {},
@@ -7732,30 +7806,6 @@
     ],
     "precio_total": 3.55,
     "precio_por_cantidad": 0.3,
-    "peso_volumen": "",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/capsulas-compatibles-dolce-gusto/p/255048",
-    "titulo": "Cápsulas de café con leche Dolce Gusto 30 unidades",
-    "valores_nutricionales_100_g": {
-      "Grasas": "22g",
-      "Saturadas": "12.5g",
-      "Hidratos de carbono": "38.3g",
-      "Azucares": "30g",
-      "Fibra alimentaria": "7.1g",
-      "Proteinas": "22.2g",
-      "Sal": "0.89g",
-      "Valor energetico": "459kcal"
-    },
-    "descripcion": "Disfruta de un café de calidad superior con las cápsulas NESCAFÉ® Dolce Gusto® Café con Leche. Estas cápsulas son perfectas para cualquier ocasión, ya sea para empezar el día con energía o para un descanso por la tarde. El café se combina perfectamente con la leche para crear una bebida suave y cremosa. Con NESCAFÉ® Dolce Gusto®, puedes disfrutar de la experiencia de un café de alta calidad en la comodidad de tu hogar. ¡Prepárate para saborear el verdadero sabor del café!",
-    "categorias": [
-      "desayunos_dulces"
-    ],
-    "precio_total": 8.55,
-    "precio_por_cantidad": 0.29,
     "peso_volumen": "",
     "alergenos": [],
     "origen": "dia",
@@ -7878,6 +7928,28 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafe-molido/p/6077",
+    "titulo": "Café molido natural Colombia Dia Arom'arte 250 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "9g",
+      "Saturadas": "4g",
+      "Hidratos de carbono": "12g",
+      "Azucares": "2g",
+      "Proteinas": "14g",
+      "Valor energetico": "296kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "desayunos_dulces"
+    ],
+    "precio_total": 4.99,
+    "precio_por_cantidad": 19.96,
+    "peso_volumen": "250 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafe-molido/p/1161",
     "titulo": "Café molido natural descafeinado Dia Cafetería 250 g",
     "valores_nutricionales_100_g": {
@@ -7910,28 +7982,6 @@
     ],
     "precio_total": 3.99,
     "precio_por_cantidad": 15.96,
-    "peso_volumen": "250 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafe-molido/p/6077",
-    "titulo": "Café molido natural Colombia Dia Arom'arte 250 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "9g",
-      "Saturadas": "4g",
-      "Hidratos de carbono": "12g",
-      "Azucares": "2g",
-      "Proteinas": "14g",
-      "Valor energetico": "296kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "desayunos_dulces"
-    ],
-    "precio_total": 4.99,
-    "precio_por_cantidad": 19.96,
     "peso_volumen": "250 g",
     "alergenos": [],
     "origen": "dia",
@@ -8007,25 +8057,16 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafe-soluble/p/1533",
-    "titulo": "Café soluble cappuccino en sobres Dia Cafetería 125 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "1.2g",
-      "Saturadas": "1.1g",
-      "Hidratos de carbono": "5.4g",
-      "Azucares": "4.2g",
-      "Fibra alimentaria": "6g",
-      "Proteinas": "0.6g",
-      "Sal": "0.21g",
-      "Valor energetico": "35kcal"
-    },
-    "descripcion": "Valor nutricional",
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafe-soluble/p/229",
+    "titulo": "Café soluble descafeinado Dia Cafetería 100 g",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
     "categorias": [
       "desayunos_dulces"
     ],
-    "precio_total": 2.19,
-    "precio_por_cantidad": 17.52,
-    "peso_volumen": "125 g",
+    "precio_total": 3.1,
+    "precio_por_cantidad": 31.0,
+    "peso_volumen": "100 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -8110,7 +8151,7 @@
     "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafe-en-grano/p/309606",
     "titulo": "Café en grano Colombia L'Or 500 g",
     "valores_nutricionales_100_g": {},
-    "descripcion": "Descubre el café L’OR Grano Colombia. Un café elaborado 100% con granos de café arábica, de gran tamaño y sabor delicado.\n\nSabor:\nColombia es un café suave y aromático con intensidad 8 (en una escala del 1 al 13).\n\nPreparación sencilla:\nLos granos de café deben ser molidos en una máquina superautomática, después el agua a presión pasará a través de este café molido produciendo un café aromático, cremoso y con cuerpo. Moler el grano permite disfrutar del sabor del café más puro. ¡Disfruta de un café recién molido con todo el aroma!\n\nCompatibilidad:\nEl café en grano debe ser antes molido en una máquina de café superatomática, una vez molido podrá utilizarse en cualquier cafetera.\n\nCafé sostenible:\nGranos de café sostenibles con certificado UTZ (Rainforest Alliance) que garantiza una Agricultura Sostenible y respetuosa con el medio ambiente.\n\nFormato:\nSe presenta en un 1 paquete de 500g.\nAcompaña tus mañanas o tardes con este café y disfruta de los sabores L’OR.",
+    "descripcion": "Descubre el café L’OR Grano Colombia. Un café elaborado 100% con granos de café arábica, de gran tamaño y sabor delicado.\n\nSabor:\nColombia es un café suave y aromático con intensidad 8 (en una escala del 1 al 13).\n\nPreparación sencilla:\nLos granos de café deben ser molidos en una máquina superautomática, después el agua a presión pasará a través de este café molido produciendo un café aromático, cremoso y con cuerpo. Moler el grano permite disfrutar del sabor del café más puro. ¡Disfruta de un café recién molido con todo el aroma!\n\nCompatibilidad:\nEl café en grano debe ser antes molido en una máquina de café superatomática, una vez molido podrá utilizarse en cualquier cafetera.\n\nFormato:\nSe presenta en un 1 paquete de 500g.\nAcompaña tus mañanas o tardes con este café y disfruta de los sabores L’OR.",
     "categorias": [
       "desayunos_dulces"
     ],
@@ -8191,31 +8232,8 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafes-frios/p/284686",
-    "titulo": "Café con leche Puleva 1 L",
-    "valores_nutricionales_100_g": {
-      "Grasas": "0.7g",
-      "Saturadas": "0.5g",
-      "Hidratos de carbono": "9g",
-      "Azucares": "8.8g",
-      "Proteinas": "3.3g",
-      "Sal": "0.16g",
-      "Valor energetico": "56kcal"
-    },
-    "descripcion": "Puleva Café con Leche es la nueva bebida de Puleva que combina la calidad de su leche con una exquisita selección de cafés arábica y robusta para disfrutar de un buen café con leche de la manera más fácil.",
-    "categorias": [
-      "desayunos_dulces"
-    ],
-    "precio_total": 2.19,
-    "precio_por_cantidad": 2.19,
-    "peso_volumen": "1 l",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafes-frios/p/276778",
-    "titulo": "Café latte cappuccino Kaiku 370 ml",
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafes-frios/p/147919",
+    "titulo": "Café latte cappuccino Kaiku 230 ml",
     "valores_nutricionales_100_g": {
       "Grasas": "1.2g",
       "Saturadas": "0.7g",
@@ -8229,9 +8247,32 @@
     "categorias": [
       "desayunos_dulces"
     ],
-    "precio_total": 2.69,
-    "precio_por_cantidad": 7.27,
-    "peso_volumen": "370 ml",
+    "precio_total": 1.79,
+    "precio_por_cantidad": 7.78,
+    "peso_volumen": "230 ml",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/cafes-frios/p/164912",
+    "titulo": "Café caramel macchiato Starbucks 220 ml",
+    "valores_nutricionales_100_g": {
+      "Grasas": "1.6g",
+      "Saturadas": "1g",
+      "Hidratos de carbono": "9g",
+      "Azucares": "8.6g",
+      "Proteinas": "2.9g",
+      "Sal": "0.09g",
+      "Valor energetico": "62kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "desayunos_dulces"
+    ],
+    "precio_total": 1.99,
+    "precio_por_cantidad": 9.05,
+    "peso_volumen": "220 ml",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -8260,53 +8301,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/cacao-y-chocolate-a-la-taza/p/3053",
-    "titulo": "Chocolate a la taza en polvo Dia Temptation 400 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "2.1g",
-      "Saturadas": "1.3g",
-      "Hidratos de carbono": "82g",
-      "Azucares": "65g",
-      "Proteinas": "4.4g",
-      "Sal": "0.01g",
-      "Valor energetico": "377kcal"
-    },
-    "descripcion": "Valor nutricional",
-    "categorias": [
-      "desayunos_dulces"
-    ],
-    "precio_total": 1.85,
-    "precio_por_cantidad": 4.63,
-    "peso_volumen": "400 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/cacao-y-chocolate-a-la-taza/p/64150",
-    "titulo": "Cacao soluble ColaCao 383 g",
-    "valores_nutricionales_100_g": {
-      "Grasas": "2.5g",
-      "Saturadas": "1.6g",
-      "Hidratos de carbono": "78g",
-      "Azucares": "70g",
-      "Fibra alimentaria": "7.8g",
-      "Proteinas": "6.6g",
-      "Sal": "0.1g",
-      "Valor energetico": "377kcal"
-    },
-    "descripcion": "ColaCao es la marca líder en cacaos solubles en España desde su nacimiento, en 1945. Y es que en este país se consumen más de … ¡50 vasos de leche con ColaCao cada segundo! Uno de los secretos del éxito de ColaCao Original son sus icónicos grumitos, fruto del cacao natural con el que se elabora y la ausencia de aditivos de su receta.\n\nColaCao apuesta por la sostenibilidad y el cuidado de las personas y el planeta, es por ello que el 100% del cacao con el que se elabora toda la gama de productos ColaCao está certificado con el sello de Rainforest Alliance. Esta ONG se focaliza en la preservación de la naturaleza y los ecosistemas donde crece el cacao, así como en mejorar los medios de vida de los agricultores y agricultoras que se dedican a su cultivo.",
-    "categorias": [
-      "desayunos_dulces"
-    ],
-    "precio_total": 4.99,
-    "precio_por_cantidad": 13.03,
-    "peso_volumen": "383 g",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/cafe-cacao-e-infusiones/cacao-y-chocolate-a-la-taza/p/238",
     "titulo": "Cacao soluble Dia Temptation 900 g",
     "valores_nutricionales_100_g": {
@@ -8325,6 +8319,29 @@
     "precio_total": 4.49,
     "precio_por_cantidad": 4.99,
     "peso_volumen": "900 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/cacao-y-chocolate-a-la-taza/p/3053",
+    "titulo": "Chocolate a la taza en polvo Dia Temptation 400 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.1g",
+      "Saturadas": "1.3g",
+      "Hidratos de carbono": "82g",
+      "Azucares": "65g",
+      "Proteinas": "4.4g",
+      "Sal": "0.01g",
+      "Valor energetico": "377kcal"
+    },
+    "descripcion": "Valor nutricional",
+    "categorias": [
+      "desayunos_dulces"
+    ],
+    "precio_total": 1.85,
+    "precio_por_cantidad": 4.63,
+    "peso_volumen": "400 g",
     "alergenos": [],
     "origen": "dia",
     "direccion_manufactura": []
@@ -8354,6 +8371,30 @@
     "direccion_manufactura": []
   },
   {
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/cacao-y-chocolate-a-la-taza/p/64150",
+    "titulo": "Cacao soluble ColaCao 383 g",
+    "valores_nutricionales_100_g": {
+      "Grasas": "2.5g",
+      "Saturadas": "1.6g",
+      "Hidratos de carbono": "78g",
+      "Azucares": "70g",
+      "Fibra alimentaria": "7.8g",
+      "Proteinas": "6.6g",
+      "Sal": "0.1g",
+      "Valor energetico": "377kcal"
+    },
+    "descripcion": "ColaCao es la marca líder en cacaos solubles en España desde su nacimiento, en 1945. Y es que en este país se consumen más de … ¡50 vasos de leche con ColaCao cada segundo! Uno de los secretos del éxito de ColaCao Original son sus icónicos grumitos, fruto del cacao natural con el que se elabora y la ausencia de aditivos de su receta.\n\nColaCao apuesta por la sostenibilidad y el cuidado de las personas y el planeta, es por ello que el 100% del cacao con el que se elabora toda la gama de productos ColaCao está certificado con el sello de Rainforest Alliance. Esta ONG se focaliza en la preservación de la naturaleza y los ecosistemas donde crece el cacao, así como en mejorar los medios de vida de los agricultores y agricultoras que se dedican a su cultivo.",
+    "categorias": [
+      "desayunos_dulces"
+    ],
+    "precio_total": 4.99,
+    "precio_por_cantidad": 13.03,
+    "peso_volumen": "383 g",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
     "url": "https://www.dia.es/cafe-cacao-e-infusiones/infusiones/p/1527",
     "titulo": "Manzanilla Dia Tetería 25 unidades",
     "valores_nutricionales_100_g": {
@@ -8371,21 +8412,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/infusiones/p/295421",
-    "titulo": "Poleo menta Dia Tetería 25 unidades",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
-    "categorias": [
-      "desayunos_dulces"
-    ],
-    "precio_total": 0.9,
-    "precio_por_cantidad": 0.04,
-    "peso_volumen": "",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/cafe-cacao-e-infusiones/infusiones/p/295423",
     "titulo": "Infusión de jengibre con limón Dia Tetería 25 unidades",
     "valores_nutricionales_100_g": {},
@@ -8395,6 +8421,21 @@
     ],
     "precio_total": 1.65,
     "precio_por_cantidad": 0.07,
+    "peso_volumen": "",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/infusiones/p/306513",
+    "titulo": "Infusión quemagrasas Montesanto 25 unidades",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "desayunos_dulces"
+    ],
+    "precio_total": 1.3,
+    "precio_por_cantidad": 0.05,
     "peso_volumen": "",
     "alergenos": [],
     "origen": "dia",
@@ -8431,36 +8472,6 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/te/p/296228",
-    "titulo": "Té verde con hierbabuena Dia Tetería 25 unidades",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
-    "categorias": [
-      "desayunos_dulces"
-    ],
-    "precio_total": 1.65,
-    "precio_por_cantidad": 0.07,
-    "peso_volumen": "",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/te/p/295422",
-    "titulo": "Té negro Dia Tetería 25 unidades",
-    "valores_nutricionales_100_g": {},
-    "descripcion": "",
-    "categorias": [
-      "desayunos_dulces"
-    ],
-    "precio_total": 0.99,
-    "precio_por_cantidad": 0.04,
-    "peso_volumen": "",
-    "alergenos": [],
-    "origen": "dia",
-    "direccion_manufactura": []
-  },
-  {
     "url": "https://www.dia.es/cafe-cacao-e-infusiones/te/p/295425",
     "titulo": "Té verde Dia Tetería 25 unidades",
     "valores_nutricionales_100_g": {},
@@ -8470,6 +8481,36 @@
     ],
     "precio_total": 0.99,
     "precio_por_cantidad": 0.04,
+    "peso_volumen": "",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/te/p/295424",
+    "titulo": "Té rojo con hinojo y anís Dia Tetería 25 unidades",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "desayunos_dulces"
+    ],
+    "precio_total": 1.39,
+    "precio_por_cantidad": 0.06,
+    "peso_volumen": "",
+    "alergenos": [],
+    "origen": "dia",
+    "direccion_manufactura": []
+  },
+  {
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/te/p/286149",
+    "titulo": "Té negro sabor vainilla y caramelo Dia Tetería 12 unidades",
+    "valores_nutricionales_100_g": {},
+    "descripcion": "",
+    "categorias": [
+      "desayunos_dulces"
+    ],
+    "precio_total": 1.89,
+    "precio_por_cantidad": 0.16,
     "peso_volumen": "",
     "alergenos": [],
     "origen": "dia",
@@ -8491,15 +8532,15 @@
     "direccion_manufactura": []
   },
   {
-    "url": "https://www.dia.es/cafe-cacao-e-infusiones/te/p/295424",
-    "titulo": "Té rojo con hinojo y anís Dia Tetería 25 unidades",
+    "url": "https://www.dia.es/cafe-cacao-e-infusiones/te/p/295422",
+    "titulo": "Té negro Dia Tetería 25 unidades",
     "valores_nutricionales_100_g": {},
     "descripcion": "",
     "categorias": [
       "desayunos_dulces"
     ],
-    "precio_total": 1.39,
-    "precio_por_cantidad": 0.06,
+    "precio_total": 0.99,
+    "precio_por_cantidad": 0.04,
     "peso_volumen": "",
     "alergenos": [],
     "origen": "dia",
