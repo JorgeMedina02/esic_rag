@@ -212,7 +212,9 @@ Como valor añadido al proyecto base, se ha desarrollado una interfaz web intera
 Esta aplicación web permite utilizar el motor de recomendación (FAISS + SentenceTransformers) y el algoritmo de re-ranking (semántica, salud y precio) a través de un entorno visual amigable, mostrando cómo se desplegaría el buscador en un entorno real.
 
 **Para lanzar la aplicación web:**
-1. Asegúrate de haber instalado las dependencias (`pip install -r requirements.txt`).
-2. Ejecuta el siguiente comando en la terminal desde la raíz del proyecto:
-   `streamlit run app.py`
-3. La aplicación se abrirá automáticamente en tu navegador web.
+1. Asegúrate de tener tu entorno virtual activado (donde instalaste el `requirements.txt`). Si usas Anaconda, puedes activarlo con:
+   `conda activate nombre_de_tu_entorno`
+2. Abre la terminal en la carpeta raíz del proyecto (`esic_rag`).
+3. Ejecuta el siguiente comando estándar:
+   `python -m streamlit run app.py`
+4. La interfaz se abrirá automáticamente en tu navegador web por defecto.
